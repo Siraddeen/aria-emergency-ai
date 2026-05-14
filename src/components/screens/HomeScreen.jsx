@@ -42,7 +42,9 @@ export { QUICK_ACTIONS };
 // ─────────────────────────────────────────────
 // APK download URL — swap this once you push to GitHub Releases
 // ─────────────────────────────────────────────
-const APK_URL = "https://huggingface.co/turbo017/ARIA/resolve/main/ARIA.apk";
+const APK_URL =
+  "https://huggingface.co/turbo017/ARIA/resolve/main/ARIA%20V3.apk";
+
 const APK_SIZE = "5.8 MB";
 
 export default function HomeScreen({ onNavigate, onQuickAction, isOnline }) {
