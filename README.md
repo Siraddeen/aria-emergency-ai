@@ -65,7 +65,7 @@ Submitted to the **[Gemma 4 Good Hackathon 2026](https://ai.google.dev/competiti
 
 | | Feature |
 |:---:|:---|
-| 🔴 | **100% offline capable** — on-device Gemma inference via MediaPipe, no server needed |
+| 🔴 | **Core emergency guidance works 100% offline, no server needed |
 | ☁️ | **Cloud Gemma 4** when online — full conversational AI via HuggingFace |
 | 📱 | **Device-adaptive AI** — auto-selects Gemma 2 2B (lower-end) or Gemma 4 E2B (higher-end) |
 | ⚡ | **Hybrid routing engine** — switches AI modes based on connectivity & hardware in real time |
@@ -208,22 +208,62 @@ Is internet available?
 ## 📁 Project Structure
 
 ```
+
 aria-emergency-ai/
 ├── src/
-│   ├── components/          # React UI components
+│   ├── components/
+│   │   ├── intents/                 # Intent classification + routing helpers
+│   │   ├── response/                # Response UI cards & renderers
+│   │   ├── screens/                 # Main application screens
+│   │   ├── CriticalAlert.jsx        # Full-screen critical emergency overlay
+│   │   ├── EmergencyActions.jsx     # SOS + emergency quick actions
+│   │   ├── VoiceButton.jsx          # Voice input button + transcript UI
+│   │   └── Total.jsx                # Root mobile layout wrapper
+│   │
+│   ├── data/
+│   │   └── knowledge.json           # 57-scenario emergency knowledge base
+│   │
 │   ├── engine/
-│   │   ├── hybridEngine.js  # Layer 4: routing, state, degradation logic
-│   │   └── knowledge.json   # Layer 2: 57-scenario offline knowledge base
-│   ├── hooks/               # Custom React hooks
-│   └── App.jsx              # Root component & entry point
+│   │   ├── providers/
+│   │   │   ├── gemmaCloudProvider.js    # HuggingFace Gemma 4 provider
+│   │   │   ├── gemmaLocalProvider.js    # Local MediaPipe Gemma provider
+│   │   │   └── providerRouter.js        # Adaptive AI routing layer
+│   │   │
+│   │   ├── ariaMemory.js            # Conversation memory management
+│   │   ├── gemmaEngine.js           # Cloud inference orchestration
+│   │   ├── hybridEngine.js          # Layer 4 adaptive intelligence engine
+│   │   ├── mediaPipeEngine.js       # On-device Gemma inference
+│   │   ├── offlineEngine.js         # Deterministic emergency engine
+│   │   └── semanticEngine.js        # Semantic emergency matching
+│   │
+│   ├── hooks/
+│   │   ├── useARIA.js               # Core ARIA application hook
+│   │   ├── useLocation.js           # GPS + emergency location handling
+│   │   ├── useNetworkMode.js        # Online/offline state detection
+│   │   └── useVoice.js              # Speech recognition + TTS
+│   │
+│   ├── pipeline/
+│   │   ├── normalizeResponse.js     # Unified response normalization
+│   │   ├── processResponse.js       # Main response processing pipeline
+│   │   ├── resolveSeverity.js       # Emergency severity classification
+│   │   ├── resolveUiType.js         # Dynamic UI selection logic
+│   │   └── parseMediaPipeResponse.js # Local model response parser
+│   │
+│   ├── App.jsx                      # Root React component
+│   ├── main.jsx                     # Application entry point
+│   └── index.css                    # Global styling + animations
+│
 ├── public/
-│   └── icons/               # PWA icons (all resolutions)
-├── android/                 # Capacitor Android project
-├── assets/                  # Static assets
-├── capacitor.config.ts      # Capacitor configuration
-├── vite.config.js           # Vite + PWA plugin config
-├── testGemini.js            # API connectivity test script
-└── index.html               # HTML entry point
+│   ├── manifest.json                # PWA manifest
+│   └── icons/                       # PWA icons & assets
+│
+├── android/                         # Capacitor Android project
+├── assets/                          # Branding + static assets
+├── capacitor.config.ts              # Capacitor configuration
+├── vite.config.js                   # Vite + PWA plugin config
+├── package.json
+├── testGemini.js                    # Gemma API connectivity test
+└── index.html
 ```
 
 ---
