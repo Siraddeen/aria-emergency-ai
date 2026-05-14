@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ARIA</string>
+    <string name="title_activity_main">ARIA</string>
+    <string name="package_name">com.aria.assistant</string>
+    <string name="custom_url_scheme">com.aria.assistant</string>
+</resources>

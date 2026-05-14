@@ -1,0 +1,2384 @@
+{
+  "fever": {
+    "keywords": [
+      "fever",
+      "temperature",
+      "hot",
+      "burning",
+      "chills",
+      "sweating",
+      "38",
+      "39",
+      "40",
+      "hyperthermia",
+      "heatstroke",
+      "overheating"
+    ],
+    "category": "health",
+    "title": "High Fever / Hyperthermia",
+    "summary": "A high fever indicates your body is fighting infection. Act quickly \u2014 above 40\u00b0C becomes life-threatening.",
+    "steps": [
+      "Move to a cool, shaded area and rest immediately",
+      "Remove excess clothing and heavy blankets",
+      "Drink clean water or oral rehydration solution every 15 minutes",
+      "Apply a cool (not cold) damp cloth to forehead, neck, armpits, and groin",
+      "Fan the person continuously to increase evaporative cooling",
+      "Take paracetamol/ibuprofen if available \u2014 follow dosage on packaging",
+      "Monitor temperature every 30 minutes if possible",
+      "Keep the person awake and talking if temperature exceeds 39\u00b0C",
+      "If no thermometer: check for hot, dry skin, rapid pulse, confusion \u2014 these indicate dangerous fever"
+    ],
+    "avoid": [
+      "Do NOT use ice-cold water \u2014 it causes shivering and raises internal temperature",
+      "Do NOT give aspirin to children under 16",
+      "Do NOT bundle the person in heavy blankets",
+      "Do NOT leave the person alone if they are confused or unresponsive",
+      "Do NOT give food until fever breaks \u2014 fluids only"
+    ],
+    "when_to_seek_help": [
+      "Temperature above 40\u00b0C (104\u00b0F) that won't come down",
+      "Person is confused, having seizures, or unconscious",
+      "Fever in infants under 3 months old",
+      "Fever lasting more than 3 days",
+      "Severe headache, stiff neck, or skin rash appears",
+      "Person stops producing urine \u2014 severe dehydration"
+    ]
+  },
+  "bleeding": {
+    "keywords": [
+      "bleeding",
+      "blood",
+      "wound",
+      "cut",
+      "injury",
+      "gash",
+      "stab",
+      "shot",
+      "laceration",
+      "hemorrhage",
+      "tourniquet",
+      "gunshot"
+    ],
+    "category": "health",
+    "title": "Severe Bleeding / Hemorrhage Control",
+    "summary": "Uncontrolled bleeding kills in minutes. Stop the bleed first \u2014 everything else waits.",
+    "steps": [
+      "Put on gloves or use a clean plastic bag to protect yourself from bloodborne disease",
+      "Apply firm, direct pressure on the wound with the cleanest cloth available",
+      "Do NOT remove the cloth \u2014 if it soaks through, add more material on top and press harder",
+      "Elevate the injured limb above heart level if no fracture is suspected",
+      "For limb wounds with severe bleeding: apply tourniquet 5\u20137cm above the wound, tighten until bleeding stops",
+      "Write the exact time of tourniquet application on the person's forehead or skin with marker/blood",
+      "Pack deep wounds tightly with cloth \u2014 push material deep into the cavity with your fingers",
+      "Keep the person warm, flat, and legs elevated to prevent shock",
+      "Talk to them calmly \u2014 consciousness is a vital sign, keep them responding",
+      "Improvised tourniquet: use a belt, cloth strip, or clothing \u2014 twist with a stick until bleeding stops"
+    ],
+    "avoid": [
+      "Do NOT remove an embedded object \u2014 stabilize it in place with padding around it",
+      "Do NOT remove a tourniquet once applied \u2014 only a medic should do this",
+      "Do NOT give water if the person may need surgery soon",
+      "Do NOT leave the person alone",
+      "Do NOT use a thin cord or wire as a tourniquet \u2014 it causes tissue damage without stopping bleeding"
+    ],
+    "when_to_seek_help": [
+      "Bleeding does not slow after 10 minutes of direct pressure",
+      "The wound is deep, wide, or has exposed bone or tissue",
+      "Blood is spurting rhythmically \u2014 this is arterial bleeding, immediately life-threatening",
+      "Person becomes pale, cold, confused, or loses consciousness",
+      "Tourniquet has been on for more than 2 hours",
+      "Signs of infection: red streaks spreading from wound, increasing pain, foul smell"
+    ]
+  },
+  "cpr": {
+    "keywords": [
+      "cpr",
+      "not breathing",
+      "no pulse",
+      "cardiac arrest",
+      "heart stopped",
+      "unconscious",
+      "unresponsive",
+      "resuscitation",
+      "chest compression",
+      "drowning",
+      "collapsed"
+    ],
+    "category": "health",
+    "title": "CPR \u2014 Cardiac Arrest / Not Breathing",
+    "summary": "Brain death begins in 4\u20136 minutes without oxygen. Start CPR immediately \u2014 imperfect CPR is infinitely better than none.",
+    "steps": [
+      "Check scene safety \u2014 do NOT become a second victim",
+      "Tap shoulders firmly and shout 'Are you okay?' \u2014 confirm unresponsiveness",
+      "Shout for help \u2014 send a specific person to call emergency services",
+      "Tilt head back, lift chin \u2014 open the airway",
+      "Look, listen, feel for breathing for no more than 10 seconds",
+      "If not breathing normally: place heel of one hand on center of chest between nipples",
+      "Place other hand on top, interlace fingers, keep arms straight",
+      "Push hard and fast \u2014 at least 5cm (2 inches) deep at 100\u2013120 compressions per minute (think: Stayin' Alive rhythm)",
+      "Allow full chest recoil between compressions \u2014 don't lean on chest",
+      "After 30 compressions: tilt head, lift chin, pinch nose, give 2 rescue breaths (1 second each, watch chest rise)",
+      "If untrained or unwilling to give breaths: do continuous chest compressions only \u2014 still effective",
+      "Continue until emergency services arrive, person starts breathing, or you are physically unable to continue",
+      "If AED available: turn it on immediately and follow its voice instructions"
+    ],
+    "avoid": [
+      "Do NOT stop CPR to check for pulse unless the person clearly moves or breathes normally",
+      "Do NOT compress too slowly \u2014 you need 100\u2013120 per minute minimum",
+      "Do NOT compress too shallow \u2014 must be at least 5cm deep on adults",
+      "Do NOT tilt head if you suspect spinal injury \u2014 use jaw thrust instead",
+      "Do NOT give up early \u2014 people have survived after 45 minutes of CPR"
+    ],
+    "when_to_seek_help": [
+      "Any cardiac arrest \u2014 call emergency services immediately and simultaneously",
+      "After successful resuscitation \u2014 person needs hospital evaluation",
+      "If person doesn't respond to CPR after 30 minutes with no return of circulation"
+    ]
+  },
+  "fire": {
+    "keywords": [
+      "fire",
+      "smoke",
+      "burning",
+      "flames",
+      "escape",
+      "trapped",
+      "gas leak",
+      "explosion",
+      "arson",
+      "wildfire",
+      "building fire",
+      "evacuate"
+    ],
+    "category": "fire",
+    "title": "Fire / Immediate Evacuation",
+    "summary": "You have 2\u20133 minutes before fire makes a building uninhabitable. Escape first, everything else is replaceable.",
+    "steps": [
+      "Alert everyone nearby immediately \u2014 shout 'FIRE!' continuously",
+      "Activate the nearest fire alarm if available",
+      "Before opening any door: feel it with the back of your hand \u2014 if hot, do NOT open",
+      "If door is cool: open it slowly, stay low, look for smoke before proceeding",
+      "Stay low to the ground \u2014 clean air is below 60cm from the floor",
+      "Use stairs only \u2014 never elevators in a fire",
+      "If trapped in a room: seal door gaps with clothing or towels, signal from window",
+      "Signal from window with a bright cloth, phone light, or shout \u2014 firefighters look for movement",
+      "If clothes catch fire: STOP (don't run), DROP (fall to ground), ROLL (until fire extinguished)",
+      "Once outside: move at least 100 meters away, account for everyone, do NOT go back",
+      "If escaping through smoke: hold damp cloth over mouth and nose"
+    ],
+    "avoid": [
+      "Do NOT try to collect belongings \u2014 not worth your life",
+      "Do NOT open hot doors",
+      "Do NOT use elevators",
+      "Do NOT go back into a burning building for any reason",
+      "Do NOT stand upright in heavy smoke"
+    ],
+    "when_to_seek_help": [
+      "As soon as you are safe \u2014 call emergency services",
+      "If anyone is injured, burned, or missing",
+      "If there is a gas leak involved",
+      "If the fire is near fuel, chemicals, or vehicles"
+    ]
+  },
+  "electricity": {
+    "keywords": [
+      "electricity",
+      "electric shock",
+      "electrocuted",
+      "power outage",
+      "blackout",
+      "no power",
+      "generator",
+      "live wire",
+      "power line",
+      "zapped"
+    ],
+    "category": "electricity",
+    "title": "Electrical Emergency / Power Outage",
+    "summary": "Electricity kills silently and instantly. Disconnect the source before you touch anyone.",
+    "steps": [
+      "If someone is being electrocuted \u2014 DO NOT touch them while still in contact with source",
+      "Turn off the main power switch/breaker immediately if safely accessible",
+      "Use a dry wooden stick, rubber item, rope, or plastic to push the source away from the person",
+      "Once disconnected from source: check breathing \u2014 start CPR immediately if not breathing",
+      "Treat electrical burns: cool with clean water for 20 minutes, do not use ice",
+      "For power outage: unplug sensitive electronics to protect from power surge when electricity returns",
+      "Use battery-powered or hand-crank lights \u2014 avoid candles near flammable materials",
+      "Keep refrigerator closed \u2014 food stays safe 4 hours; freezer 48 hours if full",
+      "If using a generator: run it OUTSIDE minimum 6 meters from windows/doors \u2014 carbon monoxide is odorless and fatal"
+    ],
+    "avoid": [
+      "Do NOT touch an electrocuted person while they are still in contact with the source",
+      "Do NOT use metal objects to separate a person from electrical source",
+      "Do NOT run generators, gas stoves, or grills indoors \u2014 CO kills in minutes",
+      "Do NOT assume a downed power line is safe \u2014 stay 10 meters away minimum",
+      "Do NOT step in water near electrical equipment"
+    ],
+    "when_to_seek_help": [
+      "Anyone has been electrocuted \u2014 internal injuries may not be visible",
+      "Sparking, burning smell, or smoke from electrical panels",
+      "Power lines are down near your area",
+      "Outage exceeds 24 hours with medical equipment dependency"
+    ]
+  },
+  "water": {
+    "keywords": [
+      "water",
+      "dehydration",
+      "thirsty",
+      "no water",
+      "dirty water",
+      "flood",
+      "drought",
+      "drink",
+      "hydration",
+      "purify",
+      "contaminated",
+      "well"
+    ],
+    "category": "water",
+    "title": "Water Scarcity / Purification",
+    "summary": "You die in 3 days without water. Finding and purifying water is your highest survival priority after immediate safety.",
+    "steps": [
+      "Locate any water source: rain, streams, rivers, pipes, morning dew, vegetation",
+      "Boil water vigorously for 1 full minute \u2014 kills all biological threats (3 minutes at high altitude)",
+      "If no fire available: use water purification tablets \u2014 iodine or chlorine",
+      "SODIS method (no tablets or fire): fill clear plastic bottles, leave in direct sunlight for 6 hours minimum (12 hours if cloudy)",
+      "Pre-filter cloudy water through cloth, sand, or charcoal before purifying",
+      "Build a simple filter: layer of grass \u2192 charcoal (from fire) \u2192 sand \u2192 gravel in a bottle with holes at bottom",
+      "Collect rainwater in any clean container, tarp, or plastic sheet",
+      "Morning dew: wipe metal surfaces, leaves, and grass with cloth, wring into container",
+      "Minimum survival: 2 liters per person per day \u2014 3\u20134 liters in heat or with physical exertion",
+      "Prioritize hydration for children and elderly \u2014 they deteriorate faster"
+    ],
+    "avoid": [
+      "Do NOT drink seawater \u2014 accelerates fatal dehydration",
+      "Do NOT drink urine \u2014 only if you can distill it first",
+      "Do NOT drink floodwater \u2014 contaminated with sewage, chemicals, corpses",
+      "Do NOT drink from sources near dead animals or industrial areas",
+      "Do NOT wait until severely thirsty \u2014 by then you are already dehydrated"
+    ],
+    "when_to_seek_help": [
+      "No urination for 8+ hours \u2014 severe dehydration emergency",
+      "Sunken eyes, dry mouth, extreme confusion",
+      "Water source smells chemical or appears oily/rainbow-colored",
+      "Children not urinating for 6+ hours"
+    ]
+  },
+  "food": {
+    "keywords": [
+      "food",
+      "hunger",
+      "starving",
+      "no food",
+      "ration",
+      "poisoning",
+      "vomiting",
+      "eat",
+      "nutrition",
+      "calories",
+      "foraging",
+      "wild food"
+    ],
+    "category": "water",
+    "title": "Food Scarcity / Foraging / Food Safety",
+    "summary": "You can survive 3 weeks without food. Water and shelter come first. When food is needed, safety over quantity.",
+    "steps": [
+      "Prioritize water over food \u2014 always",
+      "Ration existing supplies: adults need minimum 1200 calories/day to remain functional",
+      "High-calorie priorities: nuts, oils, grains, dried legumes, peanut butter",
+      "Universal edibility test for unknown plants: touch to skin, wait 15min; touch to lip, wait 3min; small taste, wait 8 hours",
+      "Safe wild foods in most regions: grass seeds (cooked), inner tree bark (pine), cattail roots, dandelion greens",
+      "Insects are highly nutritious: grasshoppers, crickets, grubs, ants \u2014 remove wings/legs, cook thoroughly",
+      "Cook ALL wild foods thoroughly \u2014 parasites and bacteria are killed by heat",
+      "For food poisoning: rest, hydrate aggressively \u2014 do NOT stop vomiting or diarrhea with medication initially (body is purging)",
+      "FIFO method: consume oldest food first to minimize waste",
+      "Small frequent meals conserve energy better than large infrequent ones"
+    ],
+    "avoid": [
+      "Do NOT eat foods that smell sour, look slimy, or have visible mold",
+      "Do NOT eat unknown mushrooms \u2014 too many deadly lookalikes",
+      "Do NOT eat brightly colored berries, milky sap, or bitter-tasting plants",
+      "Do NOT take anti-diarrheal medication early in food poisoning",
+      "Do NOT eat raw meat or fish unless absolutely no other option"
+    ],
+    "when_to_seek_help": [
+      "Food poisoning with high fever, blood in stool, or neurological symptoms",
+      "Children not eating for 24+ hours",
+      "Severe weakness or inability to stand from hunger",
+      "Allergic reaction: swelling, hives, difficulty breathing"
+    ]
+  },
+  "mental": {
+    "keywords": [
+      "panic",
+      "anxiety",
+      "scared",
+      "afraid",
+      "stress",
+      "calm",
+      "mental",
+      "overwhelmed",
+      "breakdown",
+      "fear",
+      "help me",
+      "ptsd",
+      "shock",
+      "trauma",
+      "crying",
+      "suicidal",
+      "depression"
+    ],
+    "category": "health",
+    "title": "Panic / Psychological Crisis / PTSD",
+    "summary": "Your mind is your most critical survival tool. Managing fear is not weakness \u2014 it is the most tactical thing you can do.",
+    "steps": [
+      "STOP moving. Sit or crouch in the safest available position.",
+      "Box breathing: Inhale 4 counts \u2192 Hold 4 \u2192 Exhale 4 \u2192 Hold 4 \u2014 repeat 6 times",
+      "Grounding (5-4-3-2-1): name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste",
+      "Remind yourself: panic attacks physically cannot last more than 20\u201330 minutes \u2014 you will survive this",
+      "Focus on ONE single next action only \u2014 not the whole situation",
+      "Speak out loud \u2014 explain your situation step by step, even if alone \u2014 externalizes and organizes thought",
+      "Physical anchor: press your feet hard into the ground, feel the texture \u2014 this activates parasympathetic nervous system",
+      "Drink water slowly if available",
+      "If with others: physical touch (hand on shoulder) reduces cortisol rapidly",
+      "Write down resources, threats, and next steps if paper available \u2014 reduces cognitive load"
+    ],
+    "avoid": [
+      "Do NOT make major decisions during peak panic \u2014 wait for baseline",
+      "Do NOT isolate yourself from others if avoidable",
+      "Do NOT focus on worst-case scenarios",
+      "Do NOT consume alcohol to calm down \u2014 worsens anxiety, causes dehydration",
+      "Do NOT hyperventilate \u2014 breathe slowly"
+    ],
+    "when_to_seek_help": [
+      "Panic lasting more than 30 minutes with chest pain \u2014 could be cardiac",
+      "Suicidal thoughts or complete dissociation from reality",
+      "Person unresponsive to grounding techniques for over an hour",
+      "Children in prolonged distress or showing regression in behavior",
+      "Flashbacks, inability to function, or violent behavior after trauma"
+    ]
+  },
+  "animal_bite": {
+    "keywords": [
+      "cat bite",
+      "dog bite",
+      "animal bite",
+      "bitten",
+      "rabies",
+      "scratch",
+      "bite wound",
+      "infected bite"
+    ],
+    "category": "medical",
+    "title": "Animal Bite Treatment",
+    "summary": "Animal bites can cause infection and may require urgent medical attention depending on severity and rabies risk.",
+    "steps": [
+      "Wash the wound immediately with soap and running water for at least 10 minutes.",
+      "Apply gentle pressure if bleeding.",
+      "Use antiseptic if available.",
+      "Cover with a clean bandage.",
+      "Monitor for redness, swelling, fever, or pus."
+    ],
+    "avoid": [
+      "Do not ignore deep puncture wounds.",
+      "Do not close infected bites tightly.",
+      "Do not delay medical attention for unknown animals."
+    ],
+    "when_to_seek_help": [
+      "If the animal was stray or behaving strangely.",
+      "If bleeding will not stop.",
+      "If signs of infection appear.",
+      "If bite is near face, hands, or joints."
+    ]
+  },
+  "solar_power": {
+    "keywords": [
+      "solar",
+      "solar panel",
+      "electricity",
+      "power",
+      "charge",
+      "battery",
+      "solar energy",
+      "off grid",
+      "photovoltaic",
+      "pv panel",
+      "12v",
+      "generate electricity"
+    ],
+    "category": "energy",
+    "title": "Setting Up Solar Power Off-Grid",
+    "summary": "A basic solar setup can power lights, phone charging, and radio communication indefinitely. This is achievable with minimal technical knowledge.",
+    "steps": [
+      "Identify your power needs first: phone charging = ~10Wh/day, LED light = ~5Wh/night, radio = ~3Wh/day",
+      "Basic system components: solar panel \u2192 charge controller \u2192 battery \u2192 load (your devices)",
+      "Panel placement: face panels TRUE south (northern hemisphere) or TRUE north (southern hemisphere), tilt angle = your latitude in degrees",
+      "Avoid shading \u2014 even partial shade on one cell can reduce entire panel output by 50\u201380%",
+      "Connect panel to charge controller first (NEVER connect panel directly to battery \u2014 will damage it)",
+      "Connect battery to charge controller (observe polarity: red = positive +, black = negative \u2212)",
+      "Connect your load/devices to charge controller output terminals",
+      "A 20W panel in 4 peak sun hours = 80Wh/day \u2014 enough to charge 3\u20134 phones daily",
+      "Improvised connection: car battery clips (jumper cables) can connect panels to car batteries",
+      "Monitor battery voltage: 12.7V = full, 12.4V = half, 12.0V = nearly empty \u2014 stop drawing at 12.0V or you damage it",
+      "Size your battery: if you need 100Wh/day, use minimum 200Ah battery (never discharge below 50%)"
+    ],
+    "avoid": [
+      "Do NOT connect solar panel directly to battery without a charge controller \u2014 overcharging destroys the battery",
+      "Do NOT reverse polarity \u2014 always double-check + and \u2212 before connecting",
+      "Do NOT let lead-acid batteries discharge below 50% regularly \u2014 shortens life dramatically",
+      "Do NOT place panels flat \u2014 they need tilt for maximum output and rain self-cleaning",
+      "Do NOT leave connections loose \u2014 arcing causes fire"
+    ],
+    "when_to_seek_help": [
+      "Battery gets very hot during charging \u2014 possible short circuit",
+      "Charge controller shows error codes",
+      "Panel voltage reads zero even in direct sunlight \u2014 damaged panel or wiring"
+    ]
+  },
+  "battery_diy": {
+    "keywords": [
+      "battery",
+      "make battery",
+      "homemade battery",
+      "diy battery",
+      "power storage",
+      "energy storage",
+      "battery pack",
+      "charge",
+      "12v battery",
+      "car battery",
+      "battery from scratch"
+    ],
+    "category": "energy",
+    "title": "Emergency Battery Pack / Power Storage",
+    "summary": "While making a true battery from scratch is impractical, you can build functional power systems from salvaged components.",
+    "steps": [
+      "Best source of emergency batteries: car batteries (12V, 40\u2013100Ah), motorcycle batteries (12V, 7\u201320Ah), or UPS backup batteries",
+      "Car battery salvage: can be removed with a 10mm wrench \u2014 disconnect negative (black) terminal FIRST, then positive (red)",
+      "Series connection (increases voltage): connect + of battery 1 to \u2212 of battery 2 \u2192 total voltage doubles, capacity stays same",
+      "Parallel connection (increases capacity): connect + to + and \u2212 to \u2212 \u2192 total voltage stays same, capacity doubles",
+      "Improvised battery from household items (low power, demonstration only): zinc-copper cell using pennies (copper), zinc washers, and saltwater-soaked paper \u2014 produces ~0.76V per cell",
+      "Lemon/potato battery: insert copper wire and zinc nail into fruit/vegetable \u2014 produces ~0.9V per cell (enough to power LED, not useful devices)",
+      "For real emergency power: 6 AA batteries in series = 9V, 8 \u00d7 AA = 12V \u2014 can trickle-charge phones via USB step-down converter",
+      "18650 lithium cells from old laptop batteries: each provides 3.7V, 2\u20133Ah \u2014 3 in series = ~11V usable power bank",
+      "To extract 18650 cells: open laptop battery pack carefully with flathead screwdriver, cells are cylindrical inside",
+      "Build a battery holder: cardboard tube, aluminum foil contacts, tape \u2014 hold 18650 or AA cells in series",
+      "Charge 18650 cells safely: use dedicated charger or TP4056 module \u2014 NEVER charge damaged or swollen cells"
+    ],
+    "avoid": [
+      "Do NOT short-circuit any battery \u2014 lithium batteries can catch fire; lead-acid can explode",
+      "Do NOT charge lithium batteries with a car battery charger \u2014 wrong voltage, will cause fire",
+      "Do NOT use damaged, swollen, or leaking batteries \u2014 toxic and fire risk",
+      "Do NOT connect batteries of different capacities or chemistries in parallel",
+      "Do NOT heat any battery to force charge \u2014 highly dangerous"
+    ],
+    "when_to_seek_help": [
+      "Battery becomes hot to touch during use or charging",
+      "Battery swells, leaks, or emits chemical smell",
+      "Spark or smoke from connections"
+    ]
+  },
+  "penicillin_antibiotics": {
+    "keywords": [
+      "penicillin",
+      "antibiotic",
+      "infection",
+      "bacteria",
+      "infected wound",
+      "make medicine",
+      "homemade antibiotic",
+      "mold",
+      "sepsis",
+      "wound infected",
+      "fever wound",
+      "pus"
+    ],
+    "category": "medical",
+    "title": "Wound Infection / Improvised Antibiotics",
+    "summary": "True home penicillin production is not reliable. But there are proven methods to fight infection with accessible materials.",
+    "steps": [
+      "CLEAN THE WOUND FIRST \u2014 this prevents infection better than any antibiotic: irrigate with clean water under pressure (use syringe, bottle with pinhole cap, or squeeze bottle) for at least 5 full minutes",
+      "Use clean tweezers sterilized in flame to remove visible debris or foreign material",
+      "Hydrogen peroxide (3%): use ONCE on initial cleaning only \u2014 kills bacteria but also damages healing tissue if used repeatedly",
+      "Honey (raw, unprocessed): apply directly to wound \u2014 has genuine proven antibacterial properties (hydrogen peroxide-producing enzymes), cover with clean cloth",
+      "Sugar packing: pack wound with dry granulated sugar \u2014 creates osmotic environment that kills bacteria, change daily",
+      "Garlic: crush 2\u20133 raw garlic cloves, apply paste to wound edges (not inside deep wounds) \u2014 allicin has documented antibacterial effect",
+      "Turmeric paste: mix turmeric powder with clean water, apply to wound surface \u2014 curcumin has anti-inflammatory and mild antibacterial properties",
+      "Signs of spreading infection requiring systemic treatment: red streaks spreading from wound, fever over 38.5\u00b0C, severe swelling, pus with foul odor",
+      "If tetracycline/doxycycline or amoxicillin is available (fish/veterinary antibiotics in emergency): standard dose doxycycline is 100mg twice daily for 7\u201310 days",
+      "Prevent infection by keeping wound covered, dry between cleanings, and elevated when possible",
+      "True penicillin from mold (Penicillium chrysogenum \u2014 blue-green mold on citrus): requires controlled fermentation, extraction, and dosing \u2014 NOT reliably possible in field conditions"
+    ],
+    "avoid": [
+      "Do NOT close a dirty wound \u2014 infected wounds must drain, closure traps bacteria",
+      "Do NOT use hydrogen peroxide repeatedly on a wound \u2014 damages healing tissue",
+      "Do NOT use motor oil, mud, ash, or animal dung on wounds \u2014 causes severe infection",
+      "Do NOT ignore red streaks spreading from a wound \u2014 this is sepsis beginning, immediately life-threatening",
+      "Do NOT stop antibiotic treatment early even if feeling better \u2014 resistance develops"
+    ],
+    "when_to_seek_help": [
+      "Red streaks extending from wound \u2014 early sepsis, needs IV antibiotics urgently",
+      "Fever above 38.5\u00b0C associated with the wound",
+      "Wound not improving after 48 hours of treatment",
+      "Green or black tissue visible \u2014 tissue death (necrosis)",
+      "Person becomes confused or lethargic alongside wound infection \u2014 septic shock"
+    ]
+  },
+  "shelter": {
+    "keywords": [
+      "shelter",
+      "house",
+      "protection",
+      "cold",
+      "rain",
+      "wind",
+      "hypothermia",
+      "sleep",
+      "camp",
+      "build shelter",
+      "no roof",
+      "outside",
+      "exposed",
+      "tarp",
+      "debris hut"
+    ],
+    "category": "survival",
+    "title": "Emergency Shelter Construction",
+    "summary": "You die in 3 hours in cold wet wind without shelter. Building one is your top priority in any outdoor survival situation.",
+    "steps": [
+      "Location selection: avoid flood plains, hilltops (lightning), dead trees, animal trails, and areas directly below cliffs",
+      "Ideal site: natural windbreak (large rocks, dense trees), near but not in water, sloped slightly for drainage",
+      "Fastest shelter (15 minutes): lean two large branches against a tree trunk or wall at 45\u00b0, cover with smaller branches, pile leaves and debris over it at least 60cm thick for insulation",
+      "Debris hut (best solo warmth): make a pile of leaves and debris 1 meter deep, crawl inside \u2014 body heat trapped inside warm air is remarkable",
+      "Tarp/plastic sheet shelter: tie one edge high between two trees, stake other edge to ground at 45\u00b0 angle \u2014 effective rain and wind protection",
+      "Snow shelter (quinzhee): pile snow into 2m mound, wait 2 hours for sintering, hollow out leaving 20cm walls \u2014 interior stays near 0\u00b0C even at \u221240\u00b0C outside",
+      "Insulate the floor \u2014 ground pulls heat from your body faster than cold air \u2014 use leaves, grass, clothing, anything to create a barrier",
+      "Insulation rule: the bigger your shelter, the harder to heat \u2014 build it just large enough for your body and essential gear",
+      "Fire placement: if using fire for warmth, position reflective surface (rocks, metal) behind fire to direct heat toward shelter entrance"
+    ],
+    "avoid": [
+      "Do NOT build shelter in dry riverbeds \u2014 flash floods give no warning",
+      "Do NOT use green (living) wood for tinder \u2014 it does not burn",
+      "Do NOT let shelter interior get wet \u2014 wet insulation loses 90% of its effectiveness",
+      "Do NOT rely on shelter without checking structural stability \u2014 test before sleeping inside"
+    ],
+    "when_to_seek_help": [
+      "Someone is showing signs of hypothermia: uncontrolled shivering, confusion, slurred speech \u2014 immediate warmth emergency",
+      "Structural danger: mudslide risk, flood rising, or structural instability"
+    ]
+  },
+  "fire_making": {
+    "keywords": [
+      "start fire",
+      "make fire",
+      "no lighter",
+      "no matches",
+      "flint",
+      "friction fire",
+      "fire starting",
+      "tinder",
+      "spark",
+      "ignition",
+      "campfire",
+      "survival fire"
+    ],
+    "category": "survival",
+    "title": "Starting Fire Without Modern Tools",
+    "summary": "Fire provides warmth, water purification, signaling, and psychological comfort. Master at least two methods.",
+    "steps": [
+      "Always collect 3 types of material before attempting ignition: tinder (cotton, dry grass, paper, bark dust), kindling (pencil-width sticks), fuel (thumb-to-wrist diameter logs)",
+      "Friction method \u2014 bow drill: carve a straight dry spindle (~45cm), flat fireboard with a notch, and a simple bow with paracord or shoelace",
+      "Bow drill technique: place spindle in fireboard notch, bow horizontal, press down with hand socket, push bow back and forth rapidly \u2014 generates ember in notch",
+      "Transfer ember to tinder bundle: gently tip ember into loose ball of dry grass or bark fiber, fold bundle around it, blow gently until it ignites",
+      "Flint and steel: strike sharp flint edge against high-carbon steel at steep angle (45\u00b0) \u2014 sparks ignite dry char cloth or tinder fungus",
+      "Battery and steel wool: touch fine steel wool to both terminals of any battery (9V works best, but even phone battery works) \u2014 steel wool ignites instantly",
+      "Magnifying glass/phone camera lens/eyeglasses lens: focus sunlight to a pinpoint on dark tinder \u2014 works in 30\u201360 seconds on a sunny day",
+      "Chocolate and can method: polish bottom of aluminum can with chocolate (abrasive) until mirror-bright, use as parabolic reflector to focus sunlight",
+      "Fire structure: build a small pyramid of kindling over your tinder, add fuel logs in a star or teepee pattern \u2014 do not smother your initial flame with large wood too early",
+      "Keep your fire going: maintain a base of coals \u2014 these are more valuable than flame and can re-ignite new wood"
+    ],
+    "avoid": [
+      "Do NOT use wet or green wood \u2014 you will fail and waste energy",
+      "Do NOT use all your dry tinder on your first attempt \u2014 prepare multiple bundles",
+      "Do NOT build fire in enclosed spaces without ventilation \u2014 carbon monoxide risk",
+      "Do NOT light fire in windy conditions without a windbreak",
+      "Do NOT pour flammable liquid on existing fire \u2014 it flares unpredictably"
+    ],
+    "when_to_seek_help": [
+      "Hypothermia is occurring and fire cannot be started \u2014 move to shelter and use body heat between people immediately"
+    ]
+  },
+  "navigation": {
+    "keywords": [
+      "navigate",
+      "lost",
+      "direction",
+      "compass",
+      "gps",
+      "map",
+      "find north",
+      "no gps",
+      "orientation",
+      "where am i",
+      "navigation",
+      "stars",
+      "sun direction"
+    ],
+    "category": "survival",
+    "title": "Navigation Without GPS or Compass",
+    "summary": "You can determine direction with only the sun, stars, a watch, or natural signs. Staying oriented can save your life.",
+    "steps": [
+      "Sun method (Northern Hemisphere): sun rises in the EAST, sets in the WEST \u2014 at solar noon (highest point) it is DUE SOUTH",
+      "Shadow stick method: place a 1m stick vertically, mark the tip of its shadow, wait 15 minutes, mark again \u2014 the line from first to second mark points EAST",
+      "Watch method: point the hour hand at the sun \u2014 the midpoint between hour hand and 12 o'clock is south (Northern Hemisphere); use the 12 and midpoint to find south",
+      "Night navigation by stars: find Polaris (North Star) \u2014 locate the Big Dipper (Ursa Major), extend the line from the two outer stars of the cup 5 times \u2014 that is Polaris (true north)",
+      "Southern Hemisphere: find Southern Cross constellation, extend the long axis 4.5 times from the bottom star \u2014 that is south",
+      "Vegetation clues: moss grows predominantly on north-facing sides (less sunlight) in Northern Hemisphere; trees tend to have more branches on their south side",
+      "River navigation: rivers flow downhill toward lower terrain and eventually to larger water bodies or inhabited areas",
+      "Create a mental map: always note landmarks (hills, rivers, distinctive trees) relative to your direction of travel",
+      "Signal your position: if rescue is possible, stay where you are and signal rather than walk randomly \u2014 three fires in a triangle is universal distress signal",
+      "Leave trail markers: stack rocks, break branches, or mark trees if moving \u2014 so rescuers can follow, and you can backtrack"
+    ],
+    "avoid": [
+      "Do NOT travel in complete darkness in unknown terrain \u2014 injuries from falls are high",
+      "Do NOT navigate by a single sign \u2014 confirm direction with multiple methods",
+      "Do NOT assume a phone compass is accurate near metal structures or electrical equipment"
+    ],
+    "when_to_seek_help": [
+      "Completely disoriented with no landmarks \u2014 stay put and signal",
+      "Nightfall approaching in unknown wilderness without shelter"
+    ]
+  },
+  "chemical_attack": {
+    "keywords": [
+      "chemical",
+      "gas attack",
+      "chlorine",
+      "sarin",
+      "nerve agent",
+      "chemical weapon",
+      "toxic gas",
+      "smoke",
+      "chemical smell",
+      "chemical cloud",
+      "eyes burning",
+      "breathing difficulty",
+      "chemical warfare"
+    ],
+    "category": "warfare",
+    "title": "Chemical Attack / Toxic Gas Exposure",
+    "summary": "Chemical weapons are immediately life-threatening. Getting upwind and decontaminating within minutes is critical.",
+    "steps": [
+      "MOVE IMMEDIATELY: get upwind of the source \u2014 chemicals drift downwind, move 90\u00b0 to wind direction then upwind",
+      "Get to high ground if possible \u2014 most chemical agents are heavier than air and settle in low areas",
+      "Improvised respiratory protection: wet cloth (multiple layers) over mouth and nose filters some chemical agents \u2014 not perfect but provides some protection",
+      "Cover any skin exposure: cover exposed arms, hands, neck \u2014 chemical agents absorb through skin",
+      "Decontamination (within 1\u20132 minutes is critical): remove ALL clothing by cutting off (pulling over head spreads contamination to face)",
+      "Flush skin and eyes with large amounts of clean water for 15 minutes minimum \u2014 do not use hot water (increases absorption)",
+      "Chlorine/industrial gas exposure: move to fresh air, breathe slowly and shallowly, do not exert yourself",
+      "Nerve agent signs: pinpoint pupils, drooling, muscle twitching, seizures, loss of bladder control \u2014 requires atropine (military autoinjector if available)",
+      "Blister agent signs: burning skin/eyes appearing 2\u201324 hours after exposure \u2014 do not burst blisters, cover with clean dressing",
+      "Help others decontaminate before they enter clean areas \u2014 do not let contaminated individuals spread agent to others"
+    ],
+    "avoid": [
+      "Do NOT go to low-lying areas \u2014 heavier-than-air gases concentrate there",
+      "Do NOT stay in a downwind position from the source",
+      "Do NOT remove a gas mask before confirming you are in clean air",
+      "Do NOT touch victims of chemical attack without protection \u2014 you can become a secondary casualty",
+      "Do NOT induce vomiting if a chemical agent was swallowed"
+    ],
+    "when_to_seek_help": [
+      "Any suspected nerve agent exposure \u2014 requires antidote within minutes",
+      "Respiratory distress after chemical exposure",
+      "Seizures, loss of consciousness, or severe burning of eyes and skin",
+      "Multiple casualties showing same symptoms simultaneously"
+    ]
+  },
+  "explosive_landmine": {
+    "keywords": [
+      "landmine",
+      "mine",
+      "ied",
+      "explosion",
+      "bomb",
+      "explosive",
+      "blast",
+      "unexploded",
+      "ordnance",
+      "booby trap",
+      "tripwire",
+      "suspicious object",
+      "uxo"
+    ],
+    "category": "warfare",
+    "title": "Landmine / IED / Explosive Hazard Awareness",
+    "summary": "The only safe action near suspected explosives is distance. Your instincts will be wrong \u2014 do not approach, touch, or run.",
+    "steps": [
+      "FREEZE immediately if you suspect you have entered a mined area \u2014 look at the ground around your feet before moving",
+      "Do NOT run \u2014 running increases footfall pressure and reduces your ability to spot hazards",
+      "If you suspect a landmine field: look for disturbed earth, unusual mounds, trip wires, unusual objects, or sudden gaps in vegetation",
+      "Move back the way you came using your EXACT footsteps \u2014 step only where you have already walked safely",
+      "If you cannot retrace steps: shuffle forward very slowly, probing the ground ahead with a stick at 45\u00b0 angle before each step",
+      "Mark the area visibly: tie cloth to trees, stack rocks, mark with anything visible \u2014 to warn others",
+      "If someone triggers a mine: do NOT rush toward them \u2014 you may trigger additional mines placed around the first",
+      "Apply tourniquets and pressure to blast wounds from a safe distance using thrown materials if possible, or approach only after confirming the immediate area is clear",
+      "Treat blast injury: control hemorrhage immediately, shock position, check for secondary blast injuries (internal bleeding, hearing damage, eye damage)",
+      "Unexploded ordnance (UXO): mark and report \u2014 NEVER touch, move, or attempt to defuse",
+      "Suspicious object protocol: recognize, avoid, report \u2014 these are the only three actions"
+    ],
+    "avoid": [
+      "Do NOT touch or approach any unexploded device",
+      "Do NOT assume an area is safe because others have walked through it \u2014 mines can have delayed triggers",
+      "Do NOT use metal tools to probe for mines \u2014 stick only",
+      "Do NOT use radio or mobile phone near suspected IEDs \u2014 radio signals can trigger some devices",
+      "Do NOT attempt to defuse any explosive device under any circumstances"
+    ],
+    "when_to_seek_help": [
+      "Immediately after any blast injury \u2014 internal injuries are common and not always visible",
+      "Any time you are in a suspected mined area \u2014 mark it and evacuate",
+      "If someone is trapped and cannot be safely reached"
+    ]
+  },
+  "gunshot_wound": {
+    "keywords": [
+      "gunshot",
+      "bullet",
+      "shot",
+      "gun wound",
+      "gsw",
+      "penetrating wound",
+      "bullet wound",
+      "shooting"
+    ],
+    "category": "warfare",
+    "title": "Gunshot Wound \u2014 Tactical First Aid",
+    "summary": "Gunshot wounds kill through bleeding and collapsed lungs. Control bleeding in the first 3 minutes or the chance of survival drops dramatically.",
+    "steps": [
+      "First: ensure the threat is over \u2014 you cannot help anyone if you are also shot",
+      "Get the casualty behind cover before treating",
+      "Assess: check for multiple wounds \u2014 entry and exit wounds, hidden wounds under clothing",
+      "Limb wounds: apply tourniquet immediately, high and tight (as high on the limb as possible), tighten until bleeding stops, mark time",
+      "Trunk/chest wound: listen for sucking sound when breathing \u2014 this indicates open chest wound (pneumothorax)",
+      "Seal open chest wounds with chest seal (or improvised: plastic wrapper, credit card, tape on 3 sides to allow air out but not in)",
+      "Abdominal wound: do NOT pack with pressure \u2014 keep intestines moist with clean cloth if exposed, cover loosely",
+      "Pack high/deep wounds (armpit, groin, neck) with gauze or cloth \u2014 push DEEP into wound cavity with your fingers and maintain firm pressure for at least 3 minutes without releasing",
+      "Watch for tension pneumothorax: breathing becomes increasingly labored, trachea deviates \u2014 requires needle decompression if trained",
+      "Shock treatment: lay flat, elevate legs if no spinal/chest injury suspected, keep warm",
+      "Do NOT remove bullet \u2014 hospital procedure only; focus on bleeding control"
+    ],
+    "avoid": [
+      "Do NOT remove your hands from a packed wound to check if bleeding stopped \u2014 minimum 3 minutes uninterrupted pressure",
+      "Do NOT give food or water to someone with abdominal wound",
+      "Do NOT ignore small entry wounds \u2014 bullets can travel internally and cause massive internal damage",
+      "Do NOT place airtight seal on both sides of chest wound \u2014 must allow air to escape on one side"
+    ],
+    "when_to_seek_help": [
+      "Every gunshot wound requires surgical evaluation \u2014 even wounds that appear minor",
+      "Increasing breathing difficulty after chest wound",
+      "Uncontrolled bleeding after tourniquet application",
+      "Decreased consciousness, rapid weak pulse \u2014 hemorrhagic shock"
+    ]
+  },
+  "water_purification_advanced": {
+    "keywords": [
+      "purify water",
+      "filter water",
+      "make water safe",
+      "boil water",
+      "chlorine water",
+      "bleach water",
+      "ceramic filter",
+      "water filter build",
+      "distill water",
+      "solar still"
+    ],
+    "category": "water",
+    "title": "Advanced Water Purification Methods",
+    "summary": "Multiple purification methods combined are always safer than one alone. Master at least three of these.",
+    "steps": [
+      "Method 1 \u2014 Boiling: the gold standard \u2014 1 minute rolling boil kills everything biological (not chemical)",
+      "Method 2 \u2014 Chlorine bleach: add 8 drops of unscented household bleach (5\u20136% sodium hypochlorite) per 4 liters, wait 30 minutes before drinking",
+      "Method 3 \u2014 Iodine tablets: 1 tablet per liter, wait 30 minutes (60 minutes if cold or cloudy water)",
+      "Method 4 \u2014 SODIS: fill clear PET plastic bottles, lay on reflective surface in full sun for 6 hours minimum",
+      "Method 5 \u2014 Ceramic pot filter: red clay + combustible material (sawdust, straw) fired in kiln removes 99.9% of bacteria",
+      "Method 6 \u2014 Solar still: dig a pit 1m wide, 60cm deep in moist ground; place container in center; cover with plastic sheet; weight center down with a stone \u2014 condensation drips into container",
+      "Method 7 \u2014 Distillation: boil water, collect steam in a cloth over the pot, wring cloth into container \u2014 removes chemicals AND biological threats",
+      "Pre-filtration (always do first): let water settle for 1 hour; then pour through cloth/sand/charcoal before chemical or UV treatment",
+      "Biochar filter build: crush charred wood into fine powder, pack tightly in a container with holes \u2014 effective pre-filter for removing larger contaminants and improving taste",
+      "UV pen sterilizers: if available, run for 60 seconds per liter, stir while treating \u2014 kills all biological threats without chemicals"
+    ],
+    "avoid": [
+      "Do NOT use scented bleach \u2014 fragrance chemicals are toxic",
+      "Do NOT use iodine purification for more than 3 weeks continuously \u2014 thyroid effects",
+      "Do NOT use SODIS in colored plastic bottles \u2014 UV does not penetrate",
+      "Do NOT assume any single method covers everything \u2014 boiling kills biology, not chemicals"
+    ],
+    "when_to_seek_help": [
+      "Water source appears chemically contaminated \u2014 oil sheen, chemical smell, unusual color \u2014 no purification method makes this safe",
+      "Person showing signs of waterborne illness despite treatment"
+    ]
+  },
+  "radio_communication": {
+    "keywords": [
+      "radio",
+      "communicate",
+      "signal",
+      "ham radio",
+      "walkie talkie",
+      "frequency",
+      "contact",
+      "rescue signal",
+      "satellite",
+      "communication no phone",
+      "shortwave",
+      "cb radio"
+    ],
+    "category": "communication",
+    "title": "Emergency Radio Communication",
+    "summary": "Radio works when phones fail. Even basic radios can reach rescue services across hundreds of kilometers.",
+    "steps": [
+      "Emergency frequencies to know: AM 1000kHz (news/info), FM 88\u2013108MHz (local), VHF 156.8MHz (maritime distress), UHF 243.0MHz (military/aviation emergency)",
+      "International distress frequencies: 121.5 MHz (aviation emergency), 156.800 MHz (marine channel 16), 27.065 MHz (CB radio channel 9 \u2014 designated emergency)",
+      "If you have any AM/FM radio: keep it tuned to local news stations \u2014 emergency broadcasts continue even when internet fails",
+      "Handheld walkie-talkie/FRS radio: channel 1 at power outage or disaster \u2014 most common emergency channel",
+      "Extend antenna: more antenna length = more range \u2014 connect a length of wire to the antenna terminal of any radio",
+      "Improvised antenna: run a long wire (minimum 15m) as high as possible in a straight line for AM reception",
+      "Morse code for emergency signaling: SOS = three short, three long, three short (\u00b7 \u00b7 \u00b7 \u2212 \u2212 \u2212 \u00b7 \u00b7 \u00b7) \u2014 transmit on any frequency",
+      "If no radio: visual signals \u2014 mirror flashing is visible 15+ km; fire + green vegetation = white smoke (day); fire alone = visible at night for 30+ km",
+      "Mobile phone: even without a carrier signal, all phones can call emergency services if any network is detectable",
+      "Satellite communicators (Garmin inReach, SPOT): if available, these work anywhere on Earth"
+    ],
+    "avoid": [
+      "Do NOT transmit on military or aviation frequencies unless genuine emergency \u2014 serious legal consequences and you may interfere with rescue operations",
+      "Do NOT keep transmitting without listening \u2014 listen first to find active channels",
+      "Do NOT deplete radio batteries transmitting when no one is nearby \u2014 transmit periodically and monitor"
+    ],
+    "when_to_seek_help": [
+      "When contact with emergency services has been established \u2014 follow their instructions precisely",
+      "When communication is established, provide: location, number of people, injuries, resources needed"
+    ]
+  },
+  "hypothermia": {
+    "keywords": [
+      "cold",
+      "hypothermia",
+      "freezing",
+      "shivering",
+      "frostbite",
+      "too cold",
+      "frozen",
+      "ice",
+      "temperature drop",
+      "cold exposure",
+      "wet cold"
+    ],
+    "category": "health",
+    "title": "Hypothermia / Cold Exposure",
+    "summary": "Hypothermia begins when core temperature drops below 35\u00b0C. It impairs judgment before it causes pain \u2014 the victim often doesn't know how serious it is.",
+    "steps": [
+      "Remove the person from cold environment \u2014 get them to shelter immediately",
+      "Remove ALL wet clothing \u2014 wet fabric accelerates heat loss 25x faster than dry",
+      "Insulate from ground first \u2014 ground pulls heat faster than cold air",
+      "Cover with as many dry insulating layers as available \u2014 sleeping bag, blankets, clothing, leaves",
+      "Apply heat to the core: warm (not hot) water bottles or warm packs to armpits, groin, and neck \u2014 these are major blood vessel areas",
+      "Share body heat: if multiple people, have a warm person lie close and share body heat",
+      "Give warm sweet drinks if the person is conscious and can swallow safely \u2014 hot chocolate, tea, warm water with sugar",
+      "Handle gently \u2014 rapid movement can trigger fatal heart arrhythmia in severe hypothermia",
+      "Frostbite treatment: rewarm ONLY if no risk of re-freezing (re-freezing causes more damage than leaving it frozen)",
+      "Frostbite rewarming: immerse in warm water 37\u201340\u00b0C for 20\u201330 minutes \u2014 do not rub, do not use direct heat",
+      "Signs of mild hypothermia: shivering, clumsiness, slurred speech \u2014 manageable",
+      "Signs of severe hypothermia: shivering STOPS, confusion, muscle rigidity \u2014 life-threatening, handle with extreme care"
+    ],
+    "avoid": [
+      "Do NOT rub frostbitten tissue \u2014 causes additional cellular damage",
+      "Do NOT give alcohol \u2014 it dilates blood vessels and accelerates heat loss",
+      "Do NOT use direct heat (fire, heating pad directly on skin) \u2014 skin is numb and will burn",
+      "Do NOT rewarm limbs if the person still has to walk to safety \u2014 refreezing causes worse damage",
+      "Do NOT assume death in a cold victim \u2014 people have survived cardiac arrest in severe hypothermia"
+    ],
+    "when_to_seek_help": [
+      "Person stops shivering but is still cold \u2014 paradoxical undressing and confusion follow",
+      "Cardiac arrhythmia \u2014 irregular or absent pulse",
+      "Severe frostbite: hard, white, waxy skin with blisters"
+    ]
+  },
+  "bone_fracture": {
+    "keywords": [
+      "fracture",
+      "broken bone",
+      "break",
+      "splint",
+      "sprain",
+      "dislocation",
+      "bone",
+      "arm broken",
+      "leg broken",
+      "can't walk",
+      "deformity"
+    ],
+    "category": "health",
+    "title": "Fracture / Bone Break \u2014 Field Treatment",
+    "summary": "Immobilization is the goal. A well-splinted fracture reduces pain, prevents further injury, and allows safe movement.",
+    "steps": [
+      "Do NOT attempt to straighten a broken bone unless circulation is cut off (no pulse below fracture, blue/pale skin) \u2014 if so, gentle traction may be required",
+      "Splint the limb in the position you found it \u2014 do not force movement",
+      "Improvised splint materials: straight sticks, boards, cardboard, rolled magazines/newspapers, trekking poles, tent poles",
+      "Splint must extend past the joints ABOVE and BELOW the fracture",
+      "Pad the splint generously with cloth, leaves, or foam before securing",
+      "Secure with bandages, strips of clothing, paracord, or belts \u2014 snug but NOT tight enough to restrict circulation",
+      "Check 5 Ps every 15 minutes: Pain, Pallor (skin color), Pulselessness, Paresthesia (numbness/tingling), Paralysis \u2014 any of these = splint too tight",
+      "Elevate the injured limb above heart level to reduce swelling",
+      "Open fracture (bone visible through skin): cover with cleanest available cloth, do NOT try to push bone back \u2014 treat as open wound priority",
+      "Suspected spinal injury: do NOT move unless absolutely necessary \u2014 immobilize head and neck in found position",
+      "Pelvis fracture: bind the pelvis with a sheet or belt, keep person flat \u2014 can bleed internally 3\u20134 liters"
+    ],
+    "avoid": [
+      "Do NOT try to 'pop' or reduce dislocations without proper training \u2014 can cause nerve and vascular damage",
+      "Do NOT splint so tightly it cuts off circulation",
+      "Do NOT ignore pelvis/spinal fractures \u2014 often fatal if mishandled"
+    ],
+    "when_to_seek_help": [
+      "Open fracture \u2014 infection risk and major bleeding",
+      "Suspected spinal fracture \u2014 do not move without proper cervical collar and spinal board",
+      "Signs of major internal bleeding: pelvis or femur fracture, increasing shock symptoms"
+    ]
+  },
+  "burns": {
+    "keywords": [
+      "burn",
+      "burned",
+      "scalded",
+      "fire burn",
+      "chemical burn",
+      "hot water burn",
+      "skin burn",
+      "blisters from heat",
+      "degree burn"
+    ],
+    "category": "health",
+    "title": "Burns \u2014 Assessment and Treatment",
+    "summary": "Cool the burn, protect from infection, manage shock. Never underestimate burn size \u2014 large burns are immediately life-threatening.",
+    "steps": [
+      "Remove person from burn source \u2014 if clothing is burning, use stop-drop-roll",
+      "Remove burning or contaminated clothing and jewelry \u2014 but do NOT remove if stuck to skin",
+      "Cool the burn: run cool (not cold) clean water over the burn for 20 minutes minimum \u2014 start this within 3 hours of injury",
+      "Do NOT use ice \u2014 causes tissue damage and hypothermia in large burns",
+      "Cover with clean non-fluffy material (cling wrap if available, otherwise clean cloth) \u2014 loosely, do not wrap tightly",
+      "Assess burn size using Rule of Nines: head = 9%, each arm = 9%, chest = 18%, back = 18%, each leg = 18%, genitals = 1%",
+      "Burns over 20% of body = major burn emergency \u2014 aggressive fluid replacement required",
+      "Oral fluids for conscious burn victim: 1 liter per hour in the first few hours (burns cause massive fluid loss)",
+      "Chemical burn: brush off dry chemical first, then flush with large amounts of water for 30 minutes",
+      "Electrical burn: disconnect source first \u2014 the entry wound is small but there may be massive internal tissue destruction along the current path",
+      "Do NOT burst blisters intentionally \u2014 they protect against infection"
+    ],
+    "avoid": [
+      "Do NOT apply butter, oil, toothpaste, or any cream to burns \u2014 traps heat and causes infection",
+      "Do NOT use ice or ice water",
+      "Do NOT remove material stuck to burned skin",
+      "Do NOT burst blisters"
+    ],
+    "when_to_seek_help": [
+      "Burns to face, hands, feet, genitals, or over major joints",
+      "Burns covering more than 10% body surface",
+      "Electrical burns \u2014 always require hospital evaluation",
+      "Burns in children under 5 or elderly over 60 \u2014 thresholds are lower",
+      "Smoke inhalation \u2014 singed nasal hairs, hoarse voice, carbonaceous sputum"
+    ]
+  },
+  "sanitation": {
+    "keywords": [
+      "sanitation",
+      "toilet",
+      "waste",
+      "sewage",
+      "hygiene",
+      "disease",
+      "no water hygiene",
+      "latrine",
+      "waste disposal",
+      "hand washing",
+      "prevent disease"
+    ],
+    "category": "survival",
+    "title": "Emergency Sanitation and Disease Prevention",
+    "summary": "More people die from disease caused by poor sanitation than from the disaster itself. Manage waste properly from day one.",
+    "steps": [
+      "Establish a latrine at least 60 meters from any water source, shelter, or food preparation area \u2014 downhill from your water source",
+      "Dig cat holes at minimum 15cm deep for individual use \u2014 cover with soil after each use to prevent fly access",
+      "Group latrine: dig trench 30cm wide, 60cm deep, 1\u20133m long \u2014 cover with soil after each use",
+      "Hand hygiene without water: ash from fire rubbed on hands then rinsed with minimal water removes more bacteria than you'd expect",
+      "Improvised hand sanitizer: 2 parts isopropyl alcohol (70%+) to 1 part aloe gel or glycerin",
+      "Protect food from flies: cover all food immediately after preparation, keep food storage elevated and enclosed",
+      "Dispose of dead animals downhill and downwind from camp, buried at least 60cm deep \u2014 disease risk from decomposition",
+      "Control insects: long sleeves/pants, mosquito netting, apply mud or plant oils (eucalyptus, clove) to exposed skin if chemical repellent unavailable",
+      "Oral rehydration solution (ORS): 1 liter water + 6 teaspoons sugar + 1/2 teaspoon salt \u2014 for diarrheal disease, give continuously",
+      "Prevent cholera and typhoid: purify ALL water, wash hands before eating, cook food thoroughly, especially meat and eggs"
+    ],
+    "avoid": [
+      "Do NOT defecate near water sources under any circumstances",
+      "Do NOT let flies land on food and then eat it",
+      "Do NOT bury waste too shallow \u2014 animals will dig it up"
+    ],
+    "when_to_seek_help": [
+      "Rice-water diarrhea (cholera): watery white stool \u2014 can kill by dehydration in hours",
+      "Bloody diarrhea with fever (dysentery) \u2014 requires antibiotics",
+      "Multiple people showing same gastrointestinal symptoms \u2014 indicates contaminated water or food source"
+    ]
+  },
+  "childbirth_emergency": {
+    "keywords": [
+      "birth",
+      "baby",
+      "pregnant",
+      "labor",
+      "contractions",
+      "delivery",
+      "born",
+      "emergency birth",
+      "give birth",
+      "water broke",
+      "crowning"
+    ],
+    "category": "health",
+    "title": "Emergency Childbirth",
+    "summary": "Most births, even without medical assistance, are natural and successful. Stay calm, keep clean, and prepare to receive the baby.",
+    "steps": [
+      "Time contractions: when contractions are 5 minutes apart and lasting 1 minute, birth is likely within hours",
+      "Prepare clean surface: lay down the cleanest available sheets, towels, or clothing",
+      "Wash hands thoroughly or use gloves if available",
+      "Position: semi-reclined, on hands and knees, or squatting \u2014 whatever is most comfortable for the mother",
+      "Encourage pushing only during contractions \u2014 rest between contractions conserves energy",
+      "As baby crowns (head visible): support the head gently with your hand \u2014 do NOT pull",
+      "If amniotic sac is still intact over baby's face: gently rupture with a finger",
+      "After head delivers: check for umbilical cord around neck \u2014 if present, slip it over the head gently",
+      "Baby follows naturally \u2014 slight downward guidance of the head helps the shoulders deliver",
+      "Baby should cry and breathe immediately \u2014 if not: rub back firmly, flick the soles of the feet",
+      "Keep baby warm immediately \u2014 skin-to-skin on mother's chest covered with clothing/blanket",
+      "Placenta delivers 5\u201330 minutes after baby \u2014 do NOT pull the cord \u2014 allow natural delivery",
+      "Umbilical cord: tie tightly with clean string/thread at 3cm and 5cm from baby, cut between ties with cleanest available tool"
+    ],
+    "avoid": [
+      "Do NOT pull on the baby's head \u2014 guide only, allow natural movement",
+      "Do NOT pull the umbilical cord to deliver placenta",
+      "Do NOT cut the cord until it stops pulsating if possible",
+      "Do NOT give mother anything to eat until placenta has delivered"
+    ],
+    "when_to_seek_help": [
+      "Heavy bleeding (soaking more than one pad per 5 minutes) after delivery",
+      "Baby does not breathe after 1 minute of stimulation \u2014 begin infant CPR",
+      "Placenta does not deliver within 60 minutes",
+      "Umbilical cord delivers before baby (cord prolapse) \u2014 emergency, head to knees position immediately"
+    ]
+  },
+  "signal_rescue": {
+    "keywords": [
+      "signal",
+      "rescue",
+      "help signal",
+      "sos",
+      "flare",
+      "mirror",
+      "signal fire",
+      "rescue signal",
+      "be found",
+      "attract attention",
+      "aircraft signal"
+    ],
+    "category": "survival",
+    "title": "Signaling for Rescue",
+    "summary": "Being found is a skill. Rescuers cannot help you if they cannot find you \u2014 visibility and pattern are everything.",
+    "steps": [
+      "Stay near your last known position \u2014 rescuers begin search from your last known location",
+      "Three is the universal distress signal: 3 fires, 3 whistle blasts, 3 gunshots, 3 flashes of light \u2014 any three repeating signals",
+      "Ground-to-air signals: lay out large letters in open ground using rocks, logs, or trampled grass: 'X' = need medical assistance, 'V' = need help, '\u2192' = going this direction",
+      "Make signals large: minimum 10m long to be visible from aircraft \u2014 bigger is always better",
+      "Smoke signals (day): add green leaves, rubber, or oil to fire for black or white smoke \u2014 smoke visible 30+ km in clear conditions",
+      "Fire signals (night): open flame on a hilltop is visible 30+ km \u2014 build 3 fires in triangle pattern",
+      "Mirror/reflective surface: a signal mirror can be seen 160km away by aircraft \u2014 aim the reflection at aircraft by creating a V with your fingers and flashing light through it",
+      "Orange tarp or bright clothing: lay flat on open ground in a clearing \u2014 color contrast against natural terrain is visible from aircraft",
+      "Whistle: 3 blasts = distress, pause, repeat \u2014 carry on your person at all times in field conditions",
+      "If you must move: leave clear direction markers and arrows showing your direction of travel, with dates"
+    ],
+    "avoid": [
+      "Do NOT signal from inside forest or under tree canopy \u2014 not visible from air",
+      "Do NOT light signal fire in dry conditions without firebreak \u2014 creates wildfire risk",
+      "Do NOT use all fuel for signal fire before nightfall"
+    ],
+    "when_to_seek_help": [
+      "When you are in a safe location and rescuers are potentially active \u2014 signal continuously"
+    ]
+  },
+  "electricity_generation": {
+    "keywords": [
+      "generate electricity",
+      "power generation",
+      "no power",
+      "generator",
+      "windmill",
+      "turbine",
+      "make electricity",
+      "hydropower",
+      "pedal power",
+      "hand crank power"
+    ],
+    "category": "energy",
+    "title": "Alternative Electricity Generation",
+    "summary": "Multiple low-tech methods can generate small but critical amounts of electricity for communication and lighting.",
+    "steps": [
+      "Hand-crank generator: many emergency radios and flashlights have built-in hand cranks \u2014 1 minute of cranking \u2248 5\u201310 minutes of use",
+      "Bicycle generator: attach a small DC motor (from printer, blender, or toy) to bicycle wheel \u2014 spinning at 300 RPM generates 5\u201312V",
+      "Bike setup: mount motor so its shaft presses against the tire, connect motor leads to a battery via a diode (prevents backflow) \u2014 commercial versions called dynamos",
+      "Micro-hydro: if you have flowing water, a turbine (improvised from a bucket with holes, windmill blades, or barrel) can generate continuous DC power",
+      "Wind turbine basics: a motor run in reverse generates electricity \u2014 mount on a high pole, connect blades (cut from PVC pipe or sheet metal), connect to battery through a diode",
+      "Thermoelectric generator (TEG): placing a Peltier module between a hot and cold surface generates small amounts of electricity \u2014 fire on one side, cold metal on other \u2014 enough to charge a phone over several hours",
+      "Steam power: a simple steam-driven turbine can power a generator \u2014 requires sealed boiler, turbine blades, and generator \u2014 complex but viable for extended survival",
+      "Car alternator: removed from a vehicle, driven by any rotating power source (bicycle, water wheel, wind) \u2014 produces 12\u201314V at sufficient RPM (typically 1500\u20132000 RPM)"
+    ],
+    "avoid": [
+      "Do NOT connect a generator directly to devices without voltage regulation \u2014 voltage spikes destroy electronics",
+      "Do NOT build steam systems without pressure relief \u2014 explosions risk",
+      "Do NOT run a gasoline generator in any enclosed space"
+    ],
+    "when_to_seek_help": [
+      "Electrical burns or shock from improvised systems \u2014 always treat as serious"
+    ]
+  },
+  "food_preservation": {
+    "keywords": [
+      "preserve food",
+      "food storage",
+      "no refrigerator",
+      "canning",
+      "drying food",
+      "smoking food",
+      "salt food",
+      "fermentation",
+      "pickling",
+      "keep food",
+      "food last longer"
+    ],
+    "category": "survival",
+    "title": "Food Preservation Without Refrigeration",
+    "summary": "Properly preserved food lasts months or years. These methods have sustained civilizations for millennia.",
+    "steps": [
+      "Drying/dehydration: slice food thin (5mm), expose to sun and hot air with good airflow \u2014 fruit dries in 2\u20134 days, meat in 1\u20133 days; food is ready when brittle with no moisture when squeezed",
+      "Salt curing (meat and fish): pack in coarse salt (at least 30g salt per 100g meat), leave for 24\u201348 hours, then rinse and dry \u2014 preserved for weeks",
+      "Smoking: cold smoke (below 30\u00b0C) at 8\u201312 hours preserves for weeks; hot smoke (60\u201380\u00b0C) at 2\u20134 hours preserves for days; combine with salt curing for maximum shelf life",
+      "Smoking setup: enclosed space, small fire producing lots of smoke (green wood, sawdust), food hanging above not in direct heat",
+      "Fermentation: vegetables submerged in 2% salt brine (20g salt per liter water) ferment safely and are preserved for months \u2014 sauerkraut, kimchi principle",
+      "Pickling: submerge in vinegar (5% acidity) \u2014 preserves most foods for 1\u201312 months",
+      "Fat preservation (confit): submerge cooked meat completely in rendered fat (lard, oil) \u2014 traditional method preserves for months without refrigeration",
+      "Root cellar principle: bury food in earth at least 60cm deep \u2014 ground temperature stays 10\u201315\u00b0C, dramatically slowing spoilage",
+      "Clay pot cooling: place clay pot inside a larger clay pot, fill gap between with wet sand, cover with wet cloth \u2014 evaporative cooling keeps interior 15\u201320\u00b0C below ambient",
+      "Honey preservation: raw honey never spoils \u2014 food submerged in honey is preserved indefinitely"
+    ],
+    "avoid": [
+      "Do NOT partially dry food and stop \u2014 moisture remaining allows mold and botulism growth",
+      "Do NOT smoke without salt curing first for meats \u2014 not always sufficient alone",
+      "Do NOT seal fermented foods airtight early \u2014 CO2 must escape or jars will explode"
+    ],
+    "when_to_seek_help": [
+      "Botulism symptoms after eating preserved food: double vision, difficulty swallowing, muscle weakness \u2014 extremely serious, often fatal without treatment"
+    ]
+  },
+  "medicine_improvised": {
+    "keywords": [
+      "medicine",
+      "no medicine",
+      "improvised medicine",
+      "natural remedy",
+      "herbal",
+      "painkiller natural",
+      "aspirin natural",
+      "fever medicine",
+      "plants medicine",
+      "willow bark"
+    ],
+    "category": "medical",
+    "title": "Improvised and Natural Medicine",
+    "summary": "Natural plant-based medicines have real pharmacological effects. These are not myths \u2014 they are the basis of modern pharmaceuticals.",
+    "steps": [
+      "Willow bark (Salix species \u2014 any willow tree): contains salicin, the natural form of aspirin \u2014 chew small piece of inner bark, or boil bark in water 20 minutes, drink the tea \u2014 fever reducer and pain reliever",
+      "Garlic: proven antibacterial \u2014 eat raw crushed garlic or apply topically to infected wounds",
+      "Turmeric: anti-inflammatory \u2014 mix with water as paste for external application on inflamed or infected tissue",
+      "Ginger: antinausea \u2014 chew fresh ginger root or boil in water for nausea, digestive upset, motion sickness",
+      "Plantain (Plantago major \u2014 common weed, oval ribbed leaves): chew into paste and apply to wounds, burns, insect stings \u2014 draws out toxins, reduces inflammation",
+      "Yarrow (Achillea millefolium \u2014 feathery leaves, white flowers): apply crushed leaves to cuts and wounds \u2014 natural hemostatic (stops bleeding) and antibacterial",
+      "Activated charcoal (from fire): crush completely burned wood/bone into fine black powder, mix with water, drink \u2014 absorbs many poisons and toxins (not effective for all)",
+      "Pine needle tea: high in vitamin C \u2014 boil green pine needles 10 minutes, strain and drink \u2014 prevents scurvy in extended survival",
+      "Aloe vera (if available): split leaf and apply gel directly to burns, sunburn, skin irritation \u2014 soothing and antibacterial",
+      "Honey: apply to wounds and burns \u2014 proven antibacterial and promotes wound healing"
+    ],
+    "avoid": [
+      "Do NOT use any plant medicine you cannot positively identify \u2014 misidentification causes poisoning",
+      "Do NOT use willow bark if allergic to aspirin",
+      "Do NOT give willow bark to children under 16 \u2014 Reye's syndrome risk (same as aspirin)",
+      "Do NOT rely on natural remedies for life-threatening infections requiring antibiotics"
+    ],
+    "when_to_seek_help": [
+      "Any poisoning or allergic reaction after consuming any plant",
+      "Infection worsening despite treatment",
+      "Symptoms of serious disease requiring actual antibiotics or surgery"
+    ]
+  },
+  "water_collection": {
+    "keywords": [
+      "collect water",
+      "rain water",
+      "dew",
+      "morning dew",
+      "water from plants",
+      "water from air",
+      "transpiration",
+      "water in desert",
+      "fog water",
+      "humidity water"
+    ],
+    "category": "water",
+    "title": "Water Collection From Environment",
+    "summary": "Water exists in nearly every environment if you know where to look. These techniques can sustain life when no obvious source is available.",
+    "steps": [
+      "Rain collection: spread any waterproof material (tarp, plastic sheet, large leaves) and channel into container \u2014 a 1m\u00b2 tarp in moderate rain collects 1 liter per hour",
+      "Morning dew: before sunrise, wipe metal surfaces, vehicles, leaves, and grass with an absorbent cloth, wring into container \u2014 500ml to 2 liters possible per morning",
+      "Transpiration bag: tie a large clear plastic bag over a leafy tree branch in morning sun \u2014 water vapor from leaves condenses inside \u2014 collect 250\u2013500ml per bag per day",
+      "Plant sources: cacti (not all safe), certain vines \u2014 cut vine near ground, hold up and let water drain from cut end",
+      "Green bamboo: cut segment and shake \u2014 young bamboo segments hold water",
+      "Digging for water: look for lowest points in landscape, dried riverbeds, base of cliffs \u2014 dig until you hit damp soil, allow water to seep into hole and collect",
+      "Follow animals at dawn and dusk \u2014 they travel to water sources; follow birds flying at low altitude in straight lines",
+      "Fog collection: string mesh or cloth between poles in foggy areas \u2014 fog droplets condense and drip down into container; commercially used in desert communities",
+      "Beach/coastal: dig above high tide line in wet sand \u2014 you may find less saline water seeping through sand, purify before drinking",
+      "Ice and snow: melt before consuming \u2014 eating snow lowers core temperature; 1kg snow = approximately 100ml water"
+    ],
+    "avoid": [
+      "Do NOT eat ice or snow without melting first \u2014 causes hypothermia",
+      "Do NOT cut saguaro or other toxic cacti \u2014 barrel cactus juice is actually emetic",
+      "Do NOT collect water runoff from metal roofs with lead-based paint"
+    ],
+    "when_to_seek_help": [
+      "When collection is impossible and dehydration is progressing \u2014 movement toward known water source may be necessary"
+    ]
+  },
+  "wound_closure": {
+    "keywords": [
+      "close wound",
+      "suture",
+      "stitch",
+      "wound closure",
+      "butterfly bandage",
+      "steri strip",
+      "wound glue",
+      "laceration",
+      "deep cut",
+      "how to stitch"
+    ],
+    "category": "medical",
+    "title": "Emergency Wound Closure",
+    "summary": "Not all wounds need sutures. Proper closure technique prevents infection and aids healing.",
+    "steps": [
+      "First: clean the wound thoroughly \u2014 irrigate under pressure with clean water for at minimum 5 minutes",
+      "Assess: wounds older than 6 hours, heavily contaminated, or showing signs of infection should NOT be closed \u2014 leave open to drain",
+      "Butterfly closure strips (improvised): cut strips of tape with narrow center and wider ends, place across wound edges, pulling them together",
+      "Improvised steri-strips: cut medical tape or duct tape into thin strips, apply perpendicular to the wound",
+      "Wound glue (super glue/cyanoacrylate): hold wound edges together firmly, apply thin layer of super glue over top (not inside the wound) \u2014 do not use inside deep wounds or near eyes",
+      "Simple interrupted suture technique (if suture materials available): insert needle 5mm from wound edge, pass through all skin layers, exit 5mm on other side, tie with square knot (left over right, then right over left)",
+      "Spacing: place sutures every 5\u20138mm along the wound length",
+      "After closure: apply thin layer of antibiotic ointment if available, cover with clean dressing",
+      "Change dressing daily: clean wound, inspect for infection signs (redness spreading, swelling increasing, pus, foul smell)",
+      "Suture removal: simple sutures on face: 5\u20137 days; extremities: 10\u201314 days; over joints: 14 days"
+    ],
+    "avoid": [
+      "Do NOT close a contaminated or infected wound \u2014 traps bacteria and causes abscess",
+      "Do NOT close animal bite wounds \u2014 infection risk too high",
+      "Do NOT close wounds if there is any foreign material still inside",
+      "Do NOT over-tighten sutures \u2014 should approximate edges, not strangle tissue"
+    ],
+    "when_to_seek_help": [
+      "Any wound closure over a joint, face, or genitals should be seen by medical professional if possible",
+      "Any sign of infection developing in a closed wound \u2014 open it and let it drain",
+      "Tendon, nerve, or bone visible in wound \u2014 complex repair required"
+    ]
+  },
+  "building_defenses": {
+    "keywords": [
+      "defend",
+      "protect position",
+      "sandbag",
+      "fortify",
+      "barricade",
+      "cover",
+      "concealment",
+      "ballistic protection",
+      "protect house",
+      "defensive position",
+      "safe room"
+    ],
+    "category": "warfare",
+    "title": "Improvised Defensive Positions and Protection",
+    "summary": "In conflict zones, understanding cover vs concealment and hardening your position can save lives.",
+    "steps": [
+      "Cover vs concealment: Cover stops bullets (concrete, engine blocks, filled sandbags, packed earth); concealment only hides you (bushes, thin walls, wood)",
+      "Best cover materials ranked: packed earth/sandbags (best), concrete/masonry, brick, engine block, large trees (hardwood), filled water containers (water stops bullets)",
+      "Sandbag wall: fill bags 2/3 full with damp earth (damp sand holds shape better), stack in staggered brick pattern, minimum 60cm thickness for rifle protection",
+      "Improvised sandbags: use any fabric bag, backpack, canvas \u2014 fill with soil, sand, or gravel",
+      "Safe room in house: choose interior room (no exterior walls), reinforce walls with heavy furniture, books, sandbags \u2014 concrete stairs are excellent cover",
+      "Window protection: stack books/sandbags along lower half of window interior \u2014 leave only small gap to see through",
+      "Floor vs upper floors: ground floor is safer \u2014 upper floors are silhouetted and harder to exit under fire; roof positions are exposed",
+      "Observation with minimal exposure: observe around corners (not over them), at ground level, using a mirror if available",
+      "Noise and light discipline at night: cover all light sources, move quietly, assume any light or noise reveals your position",
+      "Entry point control: add multiple locks, reinforce door frames with additional wood or metal, use door wedges from inside"
+    ],
+    "avoid": [
+      "Do NOT assume wood walls, standard doors, or thin metal stops bullets",
+      "Do NOT position yourself in front of windows \u2014 frame yourself against a wall beside the window",
+      "Do NOT create positions that have only one exit route",
+      "Do NOT expose yourself unnecessarily to assess threats"
+    ],
+    "when_to_seek_help": [
+      "Under active fire \u2014 evacuate to safer position if possible",
+      "Position compromised \u2014 fall back to secondary position"
+    ]
+  },
+  "dehydration_treatment": {
+    "keywords": [
+      "dehydrated",
+      "dehydration",
+      "not drinking",
+      "no fluids",
+      "ors",
+      "oral rehydration",
+      "dry mouth",
+      "no urine",
+      "dizzy thirst",
+      "heat exhaustion"
+    ],
+    "category": "health",
+    "title": "Severe Dehydration / ORS Treatment",
+    "summary": "Dehydration kills through organ failure. Oral rehydration is as effective as IV drip if the person can drink \u2014 start immediately.",
+    "steps": [
+      "ORS formula: 1 liter of purified water + 6 level teaspoons of sugar + 1/2 level teaspoon of salt \u2014 stir until dissolved",
+      "Give small sips continuously \u2014 200\u2013400ml per hour for mild/moderate dehydration, 1 liter per hour for severe",
+      "Do NOT give only plain water \u2014 this dilutes electrolytes further and can cause hyponatremia (water intoxication)",
+      "Coconut water (fresh, unprocessed) is an excellent natural ORS \u2014 contains electrolytes in good balance",
+      "Assess severity: mild = dry mouth, slightly dark urine; moderate = very dark urine, dizziness; severe = no urine, confusion, sunken eyes, rapid weak pulse",
+      "For vomiting: give 5ml every 2\u20133 minutes \u2014 even if vomiting continues some is absorbed",
+      "Position: laying flat with legs elevated helps blood flow to vital organs in severe dehydration",
+      "Food can wait \u2014 fluids are the only priority until urine output resumes and person is alert",
+      "Rehydration salt sachets (WHO/UNICEF standard): 2.6g sodium chloride + 2.9g sodium citrate + 1.5g potassium chloride + 13.5g glucose per liter \u2014 if available use these",
+      "Children dehydrate much faster than adults \u2014 prioritize pediatric cases"
+    ],
+    "avoid": [
+      "Do NOT give sports drinks (Gatorade etc) as primary rehydration \u2014 too much sugar, not enough sodium",
+      "Do NOT give plain water alone to severely dehydrated person without electrolytes",
+      "Do NOT force fluids on unconscious person \u2014 aspiration risk"
+    ],
+    "when_to_seek_help": [
+      "No urine output for 8+ hours despite oral fluids",
+      "Person cannot hold down fluids despite small sip technique",
+      "Confusion, lethargy, or loss of consciousness",
+      "Infants with sunken fontanelle (soft spot on top of head)"
+    ]
+  },
+  "infection_sepsis": {
+    "keywords": [
+      "sepsis",
+      "blood poisoning",
+      "infection spreading",
+      "red streaks",
+      "fever and wound",
+      "severe infection",
+      "organ failure",
+      "systemic infection"
+    ],
+    "category": "medical",
+    "title": "Sepsis / Life-Threatening Infection",
+    "summary": "Sepsis kills in hours. It is infection spreading to the bloodstream \u2014 every hour without treatment increases mortality significantly.",
+    "steps": [
+      "Recognize sepsis: infected wound PLUS at least two of \u2014 fever above 38\u00b0C OR below 36\u00b0C, heart rate above 90/min, breathing faster than 20 breaths/min, confusion",
+      "Red streaks spreading from a wound = sepsis in progress \u2014 this is an emergency",
+      "If antibiotics are available: start immediately \u2014 amoxicillin 500mg every 8 hours, or doxycycline 100mg every 12 hours, or metronidazole 500mg every 8 hours (for abdominal/wound infections)",
+      "Aggressive fluid resuscitation: if person can drink, give 1\u20132 liters of ORS in first hour \u2014 sepsis causes vasodilation and relative fluid deficit",
+      "Lay person flat with legs elevated \u2014 helps maintain blood pressure",
+      "Wound source control: if the infection source is a wound, open it and drain \u2014 do NOT leave infected closed wounds in a septic patient",
+      "Monitor: check pulse, breathing, and consciousness every 15 minutes \u2014 deterioration is rapid",
+      "Keep warm: sepsis causes temperature dysregulation, cover with blanket",
+      "Do NOT give anti-fever medication (antipyretics) in sepsis shock \u2014 fever is helping fight infection"
+    ],
+    "avoid": [
+      "Do NOT delay antibiotics waiting for 'confirmation' \u2014 start treatment on strong suspicion",
+      "Do NOT ignore confusion in a person with a known wound \u2014 this is septic encephalopathy",
+      "Do NOT close or tightly bandage an infected wound"
+    ],
+    "when_to_seek_help": [
+      "Any suspected sepsis \u2014 this is a life-threatening emergency",
+      "Declining blood pressure (very weak or absent pulse at wrist), cessation of urine output, or loss of consciousness \u2014 septic shock"
+    ]
+  },
+  "knots_rigging": {
+    "keywords": [
+      "knot",
+      "rope",
+      "tie",
+      "rig",
+      "anchor",
+      "secure",
+      "climbing",
+      "rappel",
+      "lashing",
+      "cordage",
+      "paracord",
+      "knots survival"
+    ],
+    "category": "survival",
+    "title": "Essential Survival Knots and Rigging",
+    "summary": "Five knots cover 95% of survival situations. Learn these and practice until you can tie them in the dark.",
+    "steps": [
+      "Bowline (rescue loop that doesn't tighten): make a small loop in the rope, pass the end up through the loop, around the standing line, back down through the loop \u2014 'the rabbit comes out of the hole, goes around the tree, and back into the hole'",
+      "Clove hitch (lash to a post): wrap rope around post, cross over itself, wrap again, tuck end under the last wrap \u2014 fast and adjustable",
+      "Square knot (join two ropes of equal thickness): left over right and under, right over left and under \u2014 remember 'left over right, right over left'",
+      "Prusik knot (ascend a rope): loop a short cord around a main rope 3 times, pass end through itself \u2014 grips under load, slides when unloaded \u2014 essential for rope climbing",
+      "Figure-8 (stopper knot / loop): make a loop, pass end around and through \u2014 strong, easily untied after loading",
+      "Improvised cordage: braid 3 strands of plant fiber (inner bark of basswood, stinging nettle stems, cattail leaves) \u2014 twist each strand clockwise while twisting the bundle counterclockwise",
+      "Lashing for structures: diagonal lashing secures poles crossing at angles; square lashing secures poles at right angles \u2014 wrap rope 8 times around both poles, then 4 times between them (frapping turns) to tighten",
+      "Trucker's hitch (mechanical advantage for tension): creates 3:1 mechanical advantage for tightening tarp, lashing loads \u2014 loop, hook through, pull \u2014 standard tarp-rigging knot"
+    ],
+    "avoid": [
+      "Do NOT use a square knot to join ropes under high load \u2014 it can capsize and release",
+      "Do NOT use synthetic paracord for rappelling without proper equipment",
+      "Do NOT rely on a single knot for life-safety applications without backup"
+    ],
+    "when_to_seek_help": [
+      "Any situation involving rope rescue of persons from heights or swift water \u2014 requires trained personnel"
+    ]
+  },
+  "improvised_weapons": {
+    "keywords": [
+      "self defense",
+      "weapon",
+      "protection",
+      "defend yourself",
+      "attack",
+      "sling",
+      "bow arrow",
+      "spear",
+      "survival weapon",
+      "hunting",
+      "improvised weapon"
+    ],
+    "category": "survival",
+    "title": "Improvised Tools for Hunting and Self-Defense",
+    "summary": "In a survival situation, tools for hunting and defense increase your chances significantly. These require practice before you need them.",
+    "steps": [
+      "Sling (ranged): cut two 60cm cords and attach to a pouch \u2014 practiced users can hit targets at 30+ meters with rocks; requires extensive practice",
+      "Simple bow: find a flexible, strong green wood branch (osage orange, yew, ash, black locust are ideal), 150\u2013180cm long; tie a cord from tip to tip with moderate tension; arrows from straight dry shoots",
+      "Arrow basics: shaft must be straight (heat and bend green arrows while warm), fletching from feathers or duct tape splits, sharpened bone, flint, or metal point",
+      "Spear: sharpen end of a hardwood branch to a point, harden in fire (hold over flame until point blackens, not burns), carbon hardens the wood fibers",
+      "Slingshot: Y-shaped branch, elastic bands from inner tubes or clothing elastic, leather pouch \u2014 effective for small game hunting",
+      "Knife from rock: knap flint or obsidian (any glassy stone) by striking edge at angle with another hard rock \u2014 sharp edge comparable to surgical steel",
+      "Tripwire trap (game): tie a sapling under tension to a trigger, loop of cordage on ground below \u2014 when small animal steps in loop, sapling lifts and snares",
+      "Hunting with available tools: small game at dawn and dusk near water \u2014 most efficient use of energy; larger animals require group effort"
+    ],
+    "avoid": [
+      "Do NOT use improvised weapons against other humans unless in immediate life-threatening danger",
+      "Do NOT practice bowmaking with live ammunition near people",
+      "Do NOT hunt endangered or protected species regardless of situation"
+    ],
+    "when_to_seek_help": [
+      "Any significant injury from improvised tools \u2014 treat immediately to prevent infection"
+    ]
+  },
+  "heat_exhaustion": {
+    "keywords": [
+      "heat",
+      "hot",
+      "heat exhaustion",
+      "heat stroke",
+      "sun",
+      "heatstroke",
+      "overheating",
+      "too hot",
+      "sunstroke",
+      "high temperature environment"
+    ],
+    "category": "health",
+    "title": "Heat Exhaustion / Heat Stroke",
+    "summary": "Heat stroke is a medical emergency. The brain begins dying above 40\u00b0C core temperature. Act within minutes.",
+    "steps": [
+      "Distinguish heat exhaustion from heat stroke: exhaustion = heavy sweating, weakness, cold pale clammy skin, fast weak pulse, nausea \u2014 person is still alert",
+      "Heat stroke = HOT, DRY, RED skin, very high temperature, confusion or unconsciousness \u2014 this is a life-threatening emergency",
+      "Heat exhaustion treatment: move to shade/cool area, remove excess clothing, lay down with feet elevated, give cool water to sip",
+      "Heat stroke emergency cooling (do this IMMEDIATELY): immerse in cool water if possible, or wet entire body continuously and fan vigorously \u2014 goal is to lower temperature as fast as possible",
+      "Ice or cold packs: apply to armpits, groin, neck, and wrists \u2014 major blood vessel areas \u2014 this cools blood returning to core",
+      "Fan the person continuously \u2014 evaporative cooling is extremely effective",
+      "Continue cooling until temperature drops below 39\u00b0C or the person becomes alert",
+      "Do NOT give fever-reducing medication (paracetamol, ibuprofen) for heat stroke \u2014 heat stroke is NOT mediated by the fever mechanism",
+      "Monitor: check breathing and consciousness every few minutes \u2014 can deteriorate rapidly",
+      "Prevention: work in shade, wear light-colored loose clothing, drink 500\u20131000ml of water per hour in hot conditions"
+    ],
+    "avoid": [
+      "Do NOT give cold fluids rapidly by mouth to an unconscious person \u2014 aspiration risk",
+      "Do NOT use ice-cold water total immersion \u2014 can cause shivering and paradoxically raise core temperature",
+      "Do NOT ignore confusion or behavior change in hot conditions \u2014 early heat stroke"
+    ],
+    "when_to_seek_help": [
+      "Any heat stroke \u2014 this is a medical emergency",
+      "Persistent confusion after cooling",
+      "Seizures associated with heat exposure",
+      "Core temperature above 41\u00b0C"
+    ]
+  },
+  "poison_ingestion": {
+    "keywords": [
+      "poisoning",
+      "poison",
+      "swallowed",
+      "ingested",
+      "toxic",
+      "overdose",
+      "plant poisoning",
+      "chemical ingestion",
+      "ate something bad",
+      "toxic plant",
+      "medication overdose"
+    ],
+    "category": "medical",
+    "title": "Poisoning / Toxic Ingestion",
+    "summary": "The correct treatment depends on WHAT was ingested. Inducing vomiting is wrong for many types of poisoning and can kill.",
+    "steps": [
+      "Identify what was taken \u2014 name, amount, time \u2014 this determines treatment entirely",
+      "Activated charcoal: if available and person is conscious \u2014 25\u201350g mixed with water, give within 1 hour of ingestion \u2014 absorbs many toxins in gut before absorption",
+      "Corrosive poisons (acids, alkalis, bleach, drain cleaner): DO NOT induce vomiting \u2014 give milk or water to dilute, do NOT give activated charcoal",
+      "Petroleum products (gasoline, turpentine): DO NOT induce vomiting \u2014 aspiration into lungs is far more dangerous than ingestion",
+      "Plant/food poisoning and most medications: if person is conscious and within 1 hour: induced vomiting MAY be appropriate \u2014 press finger to back of throat",
+      "Alcohol poisoning: lay person on their side (recovery position), monitor breathing, do NOT give coffee \u2014 keep warm",
+      "Medication overdose: if you know the medication, note the amount; do not give anything by mouth if unconscious",
+      "Recovery position for unconscious person: roll onto left side with knee drawn up, tilt head back slightly \u2014 prevents choking on vomit",
+      "Seizures from poisoning: protect the person from injury, do not restrain, time the seizure, give nothing by mouth during seizure"
+    ],
+    "avoid": [
+      "Do NOT induce vomiting for corrosive substances, petroleum products, or if the person is unconscious",
+      "Do NOT give 'antidotes' you read about without confirmation \u2014 many are dangerous myths",
+      "Do NOT leave poisoning victim alone \u2014 deterioration can be rapid and sudden"
+    ],
+    "when_to_seek_help": [
+      "Any significant poisoning \u2014 call poison control or emergency services immediately",
+      "Unconsciousness, seizures, or difficulty breathing after ingestion",
+      "Cyanide, organophosphate, or methanol poisoning \u2014 specific antidotes exist and are urgently needed"
+    ]
+  },
+  "triage": {
+    "keywords": [
+      "triage",
+      "multiple casualties",
+      "mass casualty",
+      "many injured",
+      "disaster response",
+      "who to help first",
+      "prioritize injured",
+      "sort casualties"
+    ],
+    "category": "medical",
+    "title": "Mass Casualty Triage \u2014 Who to Help First",
+    "summary": "In mass casualty events, the goal is the greatest good for the greatest number. Triage means sorting, not treating \u2014 you must move quickly.",
+    "steps": [
+      "START triage system (Simple Triage And Rapid Treatment):",
+      "Step 1: Call out 'If you can walk, move to the far wall/area' \u2014 walking wounded are GREEN (minor) \u2014 move them and leave them for now",
+      "Step 2: Approach remaining casualties \u2014 check breathing",
+      "If not breathing: open airway (head tilt chin lift) \u2014 if breathing starts: RED (immediate). If still not breathing: BLACK (expectant/deceased in field conditions)",
+      "If breathing: count respiratory rate \u2014 above 30 breaths/min = RED (immediate)",
+      "Step 3: Check radial pulse at wrist \u2014 absent OR capillary refill above 2 seconds = RED (immediate)",
+      "Step 4: Mental status \u2014 cannot follow simple commands = RED (immediate)",
+      "All others who passed steps 2\u20134: YELLOW (delayed \u2014 can wait 30\u201360 minutes)",
+      "Color system: RED = treat first (can survive with immediate care), YELLOW = treat second, GREEN = treat last, BLACK = expectant (unsurvivable or already deceased)",
+      "Move through ALL casualties quickly to triage BEFORE treating anyone \u2014 spending too long on one patient costs others their lives",
+      "Reassess triage tags every 15\u201330 minutes \u2014 status changes"
+    ],
+    "avoid": [
+      "Do NOT spend more than 60 seconds per person during initial triage",
+      "Do NOT give BLACK tag impulsively \u2014 open the airway first",
+      "Do NOT let emotional response override triage logic \u2014 the goal is maximum lives saved"
+    ],
+    "when_to_seek_help": [
+      "As soon as scene is safe \u2014 call for emergency medical services and communicate casualty count, types of injuries, and location"
+    ]
+  },
+  "communications_no_phone": {
+    "keywords": [
+      "no phone",
+      "communicate",
+      "message",
+      "signal",
+      "runner",
+      "dead drop",
+      "communicate without phone",
+      "emergency communication",
+      "pass message",
+      "communication plan"
+    ],
+    "category": "communication",
+    "title": "Communication Without Electronic Devices",
+    "summary": "Pre-agreed communication plans and visual/physical methods remain effective when all electronics fail.",
+    "steps": [
+      "Pre-arrange rally points: agree on 2\u20133 meeting points BEFORE an emergency \u2014 if separated, go to primary rally point, wait 1 hour, then secondary, wait 1 hour, then tertiary",
+      "Runner system: use a reliable person as a message courier \u2014 messages should be written, specific, and signed",
+      "Code system: agree on simple codes before separation \u2014 chalk mark on wall = I was here, double mark = emergency, arrow = direction I went",
+      "Visual signals (short distance): flag signals \u2014 waving cloth = come here, cloth stretched between hands = I need help, cloth raised and lowered = understood",
+      "Mirror flash code: agree on Morse or simple flash code before separation \u2014 1 flash = yes, 2 flashes = no, 3 flashes = emergency",
+      "Written notes and drop points: agree on specific physical locations to leave notes \u2014 inside a specific rock, behind a specific sign",
+      "Radio schedule: if you have radios, agree on specific times to transmit (e.g. 7am, 1pm, 7pm) \u2014 conserves batteries and ensures someone is listening",
+      "Acoustic signals: horn, whistle, gunshot, or drum \u2014 agree on meaning before separation; 3 signals = emergency",
+      "Night signals: flashlight code (pre-agreed flashes), fire signals (1 fire = safe, 2 fires = danger, 3 fires = emergency)",
+      "Pigeon post in extended operations: if homing pigeons are available, they reliably return to home location \u2014 ancient and proven communication method"
+    ],
+    "avoid": [
+      "Do NOT rely on only one communication method",
+      "Do NOT leave messages in locations accessible to hostile parties"
+    ],
+    "when_to_seek_help": [
+      "When communication has been established with rescue or friendly forces \u2014 pass your exact location and status immediately"
+    ]
+  },
+  "vehicle_survival": {
+    "keywords": [
+      "car",
+      "vehicle",
+      "broken down",
+      "stuck",
+      "car survival",
+      "vehicle emergency",
+      "stranded car",
+      "vehicle fire",
+      "accident",
+      "crash",
+      "car break down"
+    ],
+    "category": "survival",
+    "title": "Vehicle Emergency / Breakdown Survival",
+    "summary": "A vehicle is a shelter, a signal device, and a survival resource. Use it \u2014 don't abandon it unless you must.",
+    "steps": [
+      "Stay with your vehicle if stranded \u2014 it is far easier to find a vehicle than a person on foot",
+      "Signal with vehicle: run headlights intermittently (preserves battery), honk horn in 3-blast distress pattern, tie bright cloth to antenna or roof",
+      "Car battery as power source: a typical car battery stores 500\u2013800Wh \u2014 enough to charge phones dozens of times or run 12V lights for days",
+      "Access car battery: open hood, connect devices via 12V socket in car, or connect leads directly to battery terminals (red = positive, black = negative)",
+      "Car as shelter: provides protection from wind and rain; in cold, run engine for 10 minutes per hour for heat \u2014 crack window slightly to prevent CO buildup",
+      "Vehicle fire: stop immediately, turn off engine, get everyone out, move 30 meters away \u2014 car fires can cause fuel tank explosion",
+      "If vehicle is in water: unbuckle immediately, do NOT open door until water pressure equalizes (door will open once water level outside equals inside), take deep breath, exit through window",
+      "Vehicle in conflict: park in covered position (garage, under bridge, behind buildings); remove license plates if they could identify you; cover windshield to reduce reflection",
+      "Extract from mud/sand: let some air out of tires (reduces ground pressure), place traction boards (mats, branches, clothing) under drive wheels, move slowly forward and back",
+      "Siphon fuel from tank (if available): clear plastic tubing \u2014 start siphon by mouth suction, immediately cap your end when flowing, drain to container"
+    ],
+    "avoid": [
+      "Do NOT run engine in an enclosed space \u2014 CO poisoning",
+      "Do NOT siphon fuel using your mouth as suction \u2014 inhaling fuel vapors is toxic",
+      "Do NOT stay in vehicle on train tracks or in a flooding riverbed"
+    ],
+    "when_to_seek_help": [
+      "Significant injury from accident \u2014 assess and treat immediately",
+      "Vehicle in water \u2014 every second counts",
+      "Vehicle on fire \u2014 immediate evacuation and distance"
+    ]
+  },
+  "default": {
+    "keywords": [],
+    "category": "general",
+    "title": "Emergency Assistance",
+    "summary": "I'm here to help. Let me provide immediate guidance. Stay calm \u2014 panic reduces cognitive function by 30%.",
+    "steps": [
+      "STOP and breathe \u2014 take 3 slow deep breaths before doing anything",
+      "Assess immediate safety: are you in danger RIGHT NOW? If yes, move first, assess second",
+      "Survival priorities in order: Air \u2192 Stop Bleeding \u2192 Temperature \u2192 Water \u2192 Food \u2192 Signaling",
+      "Take stock of resources: water, food, people, tools, location, communication devices",
+      "Establish communication if possible \u2014 let someone know your location",
+      "Rule of 3s: 3 minutes without air, 3 hours without shelter in extreme conditions, 3 days without water, 3 weeks without food",
+      "Make a simple written plan with the resources you have \u2014 externalize thinking",
+      "Help others once you yourself are stable \u2014 you cannot help others if you become a casualty",
+      "Conserve energy: rest when possible, move only when necessary, avoid panic sweating and hyperventilation"
+    ],
+    "avoid": [
+      "Do NOT act impulsively without assessing the situation for at least 60 seconds",
+      "Do NOT separate from your group unnecessarily",
+      "Do NOT exhaust your resources in the first hours",
+      "Do NOT assume rescue is coming \u2014 plan as if it won't, act pleasantly surprised if it does",
+      "Do NOT make irreversible decisions under panic"
+    ],
+    "when_to_seek_help": [
+      "Medical emergency beyond basic first aid",
+      "Immediate threat to life that cannot be managed alone",
+      "Resource depletion with no viable solution",
+      "Any situation involving children, elderly, or disabled individuals at risk"
+    ]
+  },
+  "nuclear_radiation": {
+    "keywords": [
+      "nuclear",
+      "radiation",
+      "fallout",
+      "radioactive",
+      "nuclear attack",
+      "dirty bomb",
+      "geiger",
+      "rad",
+      "radiation exposure",
+      "nuclear blast",
+      "EMP",
+      "electromagnetic pulse"
+    ],
+    "category": "warfare",
+    "title": "Nuclear / Radiation Emergency",
+    "summary": "Nuclear events are survivable with correct immediate actions. Distance, shielding, and time are your three tools.",
+    "steps": [
+      "Nuclear detonation \u2014 if you see the flash: immediately take cover behind any solid object, face down, cover exposed skin \u2014 blast wave arrives 5\u201330 seconds after flash",
+      "After blast wave passes: if you are able to move, go INSIDE a solid building immediately",
+      "Best shelters ranked: underground basement (best), center of large concrete building, brick building, wood building (worst but still better than outside)",
+      "GET INSIDE within 10\u201315 minutes of detonation \u2014 this is when fallout begins arriving",
+      "Once inside: move to center of building, away from windows and exterior walls, go to highest floor possible but below rooftop (fallout settles on roof)",
+      "Stay inside minimum 24 hours \u2014 radioactivity halves approximately every 7 hours (7-10 rule: 7 hours after blast, radiation is 1/10 of 1-hour level)",
+      "Seal building: turn off ventilation, HVAC, fans; seal gaps in windows and doors with tape, wet cloth, or plastic sheeting",
+      "Potassium iodide (KI): if available, take ONE dose per day \u2014 blocks radioactive iodine from being absorbed by thyroid gland; take BEFORE or immediately after exposure",
+      "If caught outside during fallout: cover mouth and nose, move at right angles to wind direction, get inside as fast as possible",
+      "Decontamination: remove outer clothing (removes 80% of contamination), shower thoroughly with soap \u2014 do NOT condition hair (conditions bind radioactive particles)",
+      "Radiation sickness signs (appear hours to days later): nausea, vomiting, hair loss, fatigue, skin reddening \u2014 high dose exposure",
+      "EMP effects: electronic devices, vehicles with computers (post-1980s), and power grid may be disabled \u2014 older mechanical vehicles may still work"
+    ],
+    "avoid": [
+      "Do NOT go outside during the first 24 hours after fallout begins",
+      "Do NOT take KI if allergic to iodine or have certain thyroid conditions without medical advice",
+      "Do NOT assume safety because you feel fine \u2014 radiation sickness is delayed",
+      "Do NOT drive through fallout areas unless absolutely necessary"
+    ],
+    "when_to_seek_help": [
+      "Radiation sickness symptoms: vomiting multiple times, hair loss, skin bleeding \u2014 requires medical support",
+      "When government all-clear is issued \u2014 follow official guidance on evacuation routes"
+    ]
+  },
+  "gas_leak": {
+    "keywords": [
+      "gas leak",
+      "smell gas",
+      "natural gas",
+      "propane leak",
+      "gas smell",
+      "gas explosion risk",
+      "lpg",
+      "gas line"
+    ],
+    "category": "fire",
+    "title": "Gas Leak Emergency",
+    "summary": "Gas leaks kill through explosion and asphyxiation. The correct response is fast and counterintuitive.",
+    "steps": [
+      "If you smell gas: do NOT turn any light switches on OR off \u2014 electrical sparks ignite gas",
+      "Do NOT use any electronic device including phones inside the building",
+      "Do NOT light any flame",
+      "Open windows and doors as you evacuate \u2014 do not pause to close them",
+      "Leave the building immediately \u2014 do not collect belongings",
+      "Shut off gas main outside the building if you know where it is and it is safely accessible",
+      "Move at least 100 meters away and upwind from the building",
+      "Call emergency services ONLY after you are outside and away from the building",
+      "Do NOT re-enter until emergency services confirm the building is safe",
+      "Carbon monoxide (odorless): symptoms include headache, dizziness, nausea in enclosed spaces \u2014 evacuate immediately, fresh air is antidote",
+      "For CO poisoning: fresh air, lie down, loosen clothing \u2014 severe cases need medical oxygen"
+    ],
+    "avoid": [
+      "Do NOT operate any electrical switches",
+      "Do NOT use phone, radio, or any electronic device inside",
+      "Do NOT try to find the leak yourself",
+      "Do NOT re-enter building until cleared by emergency services"
+    ],
+    "when_to_seek_help": [
+      "Immediately after exiting \u2014 call emergency services from outside",
+      "Any person who lost consciousness from gas exposure \u2014 requires medical evaluation"
+    ]
+  },
+  "snakebite": {
+    "keywords": [
+      "snake",
+      "snakebite",
+      "bitten by snake",
+      "venom",
+      "venomous",
+      "antivenin",
+      "antivenom",
+      "serpent",
+      "cobra",
+      "viper",
+      "mamba"
+    ],
+    "category": "health",
+    "title": "Snakebite Treatment",
+    "summary": "Most snakebites, even from venomous species, are survivable with correct treatment. What NOT to do is as important as what to do.",
+    "steps": [
+      "Move away from the snake \u2014 do not attempt to catch or kill it",
+      "Keep the bitten person calm and still \u2014 physical activity increases venom circulation",
+      "Remove jewelry, watches, and tight clothing near the bite \u2014 swelling will be significant",
+      "Position the bitten limb BELOW heart level \u2014 slows venom transport",
+      "Clean the bite gently with soap and water if available",
+      "Mark the edge of swelling with a pen and note the time \u2014 document progression",
+      "Immobilize the limb using a splint \u2014 this genuinely reduces venom spread",
+      "Get to medical care as quickly as possible \u2014 antivenom is the only definitive treatment",
+      "Pressure immobilization bandage (for elapid snakes \u2014 cobra, mamba, krait, sea snake): wrap firmly but not tightly from bite upward toward body, immobilize entire limb \u2014 NOT for viper bites",
+      "Identify snake if safely possible \u2014 color, pattern, head shape \u2014 this helps medical staff choose correct antivenom",
+      "Dry bites (no venom injected) occur in up to 50% of venomous snakebites \u2014 still treat as venomous until confirmed otherwise"
+    ],
+    "avoid": [
+      "Do NOT cut and suck the bite \u2014 ineffective and causes additional tissue damage and infection",
+      "Do NOT apply tourniquet \u2014 concentrates venom and destroys tissue",
+      "Do NOT apply ice \u2014 causes additional tissue damage",
+      "Do NOT give alcohol",
+      "Do NOT apply electric shock \u2014 myth with no evidence",
+      "Do NOT apply pressure bandage for viper/rattlesnake bites \u2014 concentrates tissue-destroying venom"
+    ],
+    "when_to_seek_help": [
+      "Any confirmed venomous snakebite \u2014 antivenom is urgently needed",
+      "Symptoms progressing: swelling, pain, bruising spreading \u2014 envenomation confirmed",
+      "Difficulty breathing, ptosis (drooping eyelids), paralysis \u2014 neurotoxic venom, extremely urgent"
+    ]
+  },
+  "allergic_reaction": {
+    "keywords": [
+      "allergy",
+      "allergic",
+      "anaphylaxis",
+      "anaphylactic",
+      "epipen",
+      "bee sting",
+      "nut allergy",
+      "swelling throat",
+      "hives",
+      "rash allergy",
+      "cant breathe allergy"
+    ],
+    "category": "health",
+    "title": "Severe Allergic Reaction / Anaphylaxis",
+    "summary": "Anaphylaxis kills in minutes through airway closure. Epinephrine is the only treatment \u2014 improvise if you must.",
+    "steps": [
+      "Recognize anaphylaxis: hives + ONE OR MORE of \u2014 swollen throat/tongue, difficulty breathing, drop in blood pressure, dizziness, loss of consciousness",
+      "Use epinephrine auto-injector (EpiPen) immediately if available: outer thigh, can inject through clothing, hold for 10 seconds",
+      "Call emergency services immediately \u2014 epinephrine effects last only 15\u201320 minutes, reaction can return",
+      "Lay person flat with legs elevated \u2014 do NOT sit them up if they are dizzy or unconscious",
+      "Exception: if having difficulty breathing, prop in sitting position",
+      "Give second EpiPen after 5\u201315 minutes if symptoms return or do not improve",
+      "Give antihistamine (diphenhydramine/Benadryl) as secondary treatment only \u2014 does NOT replace epinephrine, too slow for anaphylaxis",
+      "If no EpiPen: some evidence supports using high-dose inhaled salbutamol (asthma inhaler) for bronchospasm component \u2014 not a substitute but may help breathing temporarily",
+      "If the person stops breathing: begin CPR \u2014 anaphylaxis-related cardiac arrest often responds to CPR",
+      "Remove the trigger if possible: remove bee stinger by scraping (not squeezing)"
+    ],
+    "avoid": [
+      "Do NOT give antihistamine INSTEAD of epinephrine \u2014 antihistamines are too slow for anaphylaxis",
+      "Do NOT sit the person upright if they are dizzy or have low blood pressure \u2014 except if breathing is very difficult",
+      "Do NOT delay epinephrine waiting to see if symptoms improve"
+    ],
+    "when_to_seek_help": [
+      "IMMEDIATELY \u2014 every anaphylaxis case requires emergency medical evaluation",
+      "Even if symptoms resolve with EpiPen \u2014 biphasic reaction can occur hours later"
+    ]
+  },
+  "eye_injury": {
+    "keywords": [
+      "eye injury",
+      "eye",
+      "foreign object eye",
+      "chemical in eye",
+      "eye burn",
+      "vision loss",
+      "eye wound",
+      "something in eye",
+      "cornea"
+    ],
+    "category": "health",
+    "title": "Eye Injury Treatment",
+    "summary": "Eye injuries require gentle handling. Wrong treatment can permanently damage vision.",
+    "steps": [
+      "Chemical splash: immediately flush with clean water for minimum 15\u201320 minutes \u2014 hold eye open under gentle stream, flush from inner corner outward",
+      "Do NOT try to neutralize chemicals \u2014 flush with water only",
+      "Foreign object (dust, dirt): blink rapidly, flush with water, pull upper eyelid over lower and blink \u2014 often dislodges particle",
+      "Do NOT rub the eye \u2014 embeds particles and scratches cornea",
+      "Embedded object (metal, glass, wood): do NOT remove \u2014 cover both eyes with clean cloth to prevent movement, seek medical care",
+      "Blunt trauma (black eye): apply cool pack (cloth with ice) for 15\u201320 minutes \u2014 reduces swelling; check vision",
+      "Penetrating injury: do NOT remove object, do NOT press on the eye \u2014 cover loosely with clean cup or cone to avoid pressure, treat other injuries",
+      "Vision assessment: cover each eye separately \u2014 significant difference in vision between eyes indicates serious injury",
+      "Arc eye (from welding flash or snow blindness): painful gritty sensation in eyes appearing hours after bright light exposure \u2014 cool compresses, keep eyes closed, usually resolves in 24\u201348 hours"
+    ],
+    "avoid": [
+      "Do NOT rub any injured eye",
+      "Do NOT remove objects embedded in the eye",
+      "Do NOT use eye drops (other than preservative-free saline) without knowing what caused the injury",
+      "Do NOT patch a chemical injury \u2014 needs to be flushed continuously"
+    ],
+    "when_to_seek_help": [
+      "Any penetrating eye injury",
+      "Any chemical exposure to eye \u2014 requires professional irrigation",
+      "Significant vision change or loss",
+      "Embedded foreign objects"
+    ]
+  },
+  "bridge_crossing": {
+    "keywords": [
+      "bridge",
+      "cross river",
+      "ford river",
+      "cross water",
+      "swift water",
+      "flood crossing",
+      "water crossing",
+      "rope crossing",
+      "swimming across"
+    ],
+    "category": "survival",
+    "title": "Crossing Water / Swift Water Survival",
+    "summary": "More survival deaths occur during water crossings than almost any other activity. Assess before you commit.",
+    "steps": [
+      "Never cross if: water is above knee-deep AND fast, OR you cannot see the bottom, OR the crossing point is near rapids or a waterfall downstream",
+      "Find the best crossing point: widest part of river = shallowest, slowest; look for braided channels to cross individually",
+      "Unbuckle all pack straps before entering water \u2014 you need to ditch your pack instantly if you fall",
+      "Crossing staff: use a strong stick/pole on your upstream side, leaning into current \u2014 creates a tripod with your two legs",
+      "Group crossing: link arms with partners facing each other in a line perpendicular to current \u2014 group maintains stability",
+      "Angle downstream: cross at 45\u00b0 to current angled downstream \u2014 direct crossing wastes energy fighting current",
+      "If you fall in swift water: roll onto your back, feet downstream (protect your head), toes up \u2014 this is defensive swimming position",
+      "Defensive swimming: use your feet to bounce off rocks, use arms to steer toward shore, wait for calm water before trying to stand",
+      "Do NOT stand in fast current above knee depth \u2014 hydraulic forces will knock you over",
+      "Rope assisted crossing: anchor rope upstream, person crosses with rope as security \u2014 downstream person holds tension to arrest falls"
+    ],
+    "avoid": [
+      "Do NOT attempt to stand up in fast water if knocked over \u2014 get into defensive swimming position",
+      "Do NOT tie yourself to a rope during water crossing \u2014 if you go under you cannot release",
+      "Do NOT cross at bends in river \u2014 deepest, fastest water is on outside of bend"
+    ],
+    "when_to_seek_help": [
+      "After near-drowning: even if recovered, pulmonary complications can develop hours later",
+      "Hypothermia after cold water exposure"
+    ]
+  },
+  "insect_stings": {
+    "keywords": [
+      "bee sting",
+      "wasp",
+      "hornet",
+      "scorpion",
+      "spider bite",
+      "tick",
+      "insect bite",
+      "stinging",
+      "bug bite",
+      "mosquito",
+      "centipede"
+    ],
+    "category": "health",
+    "title": "Insect Stings / Arachnid Bites",
+    "summary": "Most insect stings are painful but not dangerous. Know which are and which aren't in your region.",
+    "steps": [
+      "Bee stinger: remove by scraping with card or fingernail \u2014 do NOT squeeze with fingers (injects more venom)",
+      "Wasp/hornet sting: no stinger to remove \u2014 they can sting multiple times",
+      "Basic treatment: clean the area, apply cool compress, antihistamine if available for swelling",
+      "Scorpion sting: keep person calm, immobilize the stung limb, cool compress \u2014 most scorpion stings cause only local pain; seek help if systemic symptoms develop",
+      "Dangerous scorpion signs: muscle twitching, difficulty swallowing, difficulty breathing, excessive salivation, blurred vision \u2014 antivenom needed",
+      "Spider bites: identify if possible \u2014 most are harmless; black widow (red hourglass marking) and brown recluse (violin marking) are medically significant",
+      "Black widow: cramping pain spreading from bite, sweating, nausea \u2014 treat pain, seek antivenom",
+      "Brown recluse: expanding necrotic wound appearing over 24\u201372 hours \u2014 aggressive wound management and antibiotics needed",
+      "Tick removal: grasp with fine tweezers as close to skin as possible, pull straight out with steady pressure \u2014 do NOT twist, do NOT burn or apply chemicals",
+      "After tick removal: clean area, mark date, monitor for 30 days for bullseye rash (Lyme disease) or fever",
+      "Mosquito protection: cover skin dawn and dusk, use DEET repellent, use permethrin on clothing"
+    ],
+    "avoid": [
+      "Do NOT squeeze a bee stinger",
+      "Do NOT burn a tick or apply petroleum jelly \u2014 it does not work and stimulates regurgitation",
+      "Do NOT ignore systemic symptoms after any sting or bite"
+    ],
+    "when_to_seek_help": [
+      "Signs of anaphylaxis after any sting \u2014 immediately",
+      "Scorpion sting with systemic symptoms",
+      "Expanding wound or necrosis at bite site",
+      "Fever and bullseye rash after tick bite \u2014 Lyme disease"
+    ]
+  },
+  "childrens_emergency": {
+    "keywords": [
+      "child emergency",
+      "baby",
+      "infant",
+      "kid",
+      "children",
+      "pediatric",
+      "toddler",
+      "child choking",
+      "infant choking",
+      "child fever",
+      "baby not breathing"
+    ],
+    "category": "health",
+    "title": "Pediatric Emergency \u2014 Infants and Children",
+    "summary": "Children are not small adults \u2014 dosing, techniques, and thresholds differ significantly. When in doubt, be more conservative.",
+    "steps": [
+      "Infant CPR (under 1 year): 2 fingers on center of chest, push down 4cm at 100\u2013120/min, 30 compressions to 2 breaths (mouth covers both nose and mouth)",
+      "Child CPR (1\u20138 years): one hand heel on chest, push down 5cm at 100\u2013120/min, 30:2 ratio",
+      "Infant choking (conscious): 5 back blows between shoulder blades with heel of hand, then 5 chest thrusts with 2 fingers \u2014 alternate until object dislodges",
+      "Child choking (over 1 year): Heimlich maneuver \u2014 stand behind, 2 fingers above navel, upward thrusts",
+      "Fever in infants under 3 months: any temperature above 38\u00b0C is a medical emergency \u2014 seek help immediately",
+      "Fever 3 months \u2013 2 years: above 39\u00b0C warrants medical evaluation; above 40\u00b0C is urgent",
+      "Febrile seizure: lay child on side, do NOT restrain, do NOT put anything in mouth, time the seizure \u2014 usually lasts under 5 minutes and is not life-threatening though terrifying",
+      "Dehydration in children: look for dry diapers (over 6 hours), sunken eyes, no tears when crying, sunken fontanelle in infants \u2014 rehydrate with ORS immediately",
+      "Medication dosing: always weight-based in children \u2014 paracetamol 15mg per kilogram, ibuprofen 10mg per kilogram every 6\u20138 hours (over 6 months only)"
+    ],
+    "avoid": [
+      "Do NOT give aspirin to children under 16",
+      "Do NOT give ibuprofen to infants under 6 months",
+      "Do NOT perform abdominal thrusts (Heimlich) on infants under 1 year",
+      "Do NOT restrain a child having a febrile seizure"
+    ],
+    "when_to_seek_help": [
+      "Any fever in infant under 3 months",
+      "Seizure lasting more than 5 minutes",
+      "Child with severe dehydration",
+      "Child who remains unconscious or doesn't return to normal after a seizure"
+    ]
+  },
+  "communication_security": {
+    "keywords": [
+      "secure communication",
+      "encryption",
+      "covert",
+      "surveillance",
+      "monitored",
+      "safe message",
+      "intercept",
+      "spy",
+      "secret",
+      "private communication",
+      "opsec"
+    ],
+    "category": "communication",
+    "title": "Communication Security in Conflict Zones",
+    "summary": "In conflict zones, your communications may be monitored. Operational security (OPSEC) can be the difference between life and death.",
+    "steps": [
+      "Assume all electronic communications are monitored in conflict zones \u2014 act accordingly",
+      "Use Signal app if available \u2014 end-to-end encrypted, best available consumer tool; enable disappearing messages",
+      "Phone discipline: remove SIM card and battery when not in use \u2014 IMSI catchers can track you even without a call",
+      "Code words: pre-agree simple code words for dangerous/safe locations, need help, all clear \u2014 communicated as normal conversation",
+      "Avoid patterns: vary your routes, times, communication frequency \u2014 patterns are how intelligence services identify you",
+      "Written message security: if writing sensitive information, write on temporary medium (non-porous surface with erasable marker), photograph if needed, erase",
+      "Dead drop communication: pre-agree a physical location to leave messages \u2014 both parties can access location at different times without meeting",
+      "Face-to-face security: only discuss sensitive matters in open outdoor locations where observation and listening devices are impractical",
+      "Device security: enable full device encryption, use strong PIN (not fingerprint \u2014 can be compelled), enable remote wipe",
+      "Destroy sensitive information before capture: hard drive: multiple passes of overwrite or physical destruction; paper: burn or eat if necessary"
+    ],
+    "avoid": [
+      "Do NOT transmit location, plans, or personnel information on unsecured channels",
+      "Do NOT use the same communication method repeatedly if you suspect surveillance",
+      "Do NOT discuss sensitive operations on any electronic device in a building"
+    ],
+    "when_to_seek_help": [
+      "If you believe you are under active surveillance \u2014 change routes, locations, and communication methods immediately"
+    ]
+  },
+  "psychological_first_aid": {
+    "keywords": [
+      "trauma",
+      "shock",
+      "psychological",
+      "witness death",
+      "survivor guilt",
+      "post trauma",
+      "mental health disaster",
+      "helping traumatized",
+      "crisis counseling",
+      "support survivor"
+    ],
+    "category": "health",
+    "title": "Psychological First Aid \u2014 Helping Trauma Survivors",
+    "summary": "After traumatic events, psychological support is as critical as physical. The right approach prevents lasting psychological injury.",
+    "steps": [
+      "The 5 principles of Psychological First Aid: Safety, Calm, Connectedness, Self-Efficacy, Hope",
+      "Approach: introduce yourself calmly, ask what they need \u2014 do not assume",
+      "Ensure physical safety and basic needs first \u2014 water, warmth, shelter before psychological support",
+      "Listen without judgment: do NOT tell someone they shouldn't feel a certain way \u2014 validate feelings",
+      "Do NOT force people to talk about what happened \u2014 this is NOT debriefing and forcing recall can worsen trauma",
+      "Active listening: make eye contact (culturally appropriate), use open body language, reflect back what you hear",
+      "Help the person connect with their support network: family, friends, community \u2014 social connection is the strongest buffer against PTSD",
+      "Provide accurate information: uncertainty amplifies anxiety \u2014 give honest, simple information about current situation",
+      "Identify those at high risk: those who lost family members, those who are alone, children, those with prior trauma or mental illness",
+      "Normalize reactions: 'What you are feeling is a normal response to an abnormal situation' \u2014 this is literally true and very powerful",
+      "Give the person something to DO \u2014 a simple task \u2014 restores sense of agency and control",
+      "Children: return to routine as quickly as possible, allow regression in behavior without punishment, provide honest simple explanations"
+    ],
+    "avoid": [
+      "Do NOT force people to relive trauma by asking for detailed accounts",
+      "Do NOT make promises you cannot keep about outcomes",
+      "Do NOT express excessive pity \u2014 it disempowers",
+      "Do NOT isolate people \u2014 social connection is healing"
+    ],
+    "when_to_seek_help": [
+      "Person is unable to function at all after 48 hours",
+      "Suicidal statements or self-harm",
+      "Psychosis: person losing touch with reality",
+      "Children who stop speaking or eating"
+    ]
+  },
+  "electricity_wiring": {
+    "keywords": [
+      "wire electricity",
+      "electrical wiring",
+      "connect power",
+      "run wire",
+      "electrical circuit",
+      "fuse",
+      "breaker",
+      "wire house",
+      "electrical connection",
+      "extension cord"
+    ],
+    "category": "energy",
+    "title": "Emergency Electrical Wiring and Power Distribution",
+    "summary": "Safe electrical wiring is achievable with basic knowledge. Wrong connections cause fires and deaths \u2014 understand before you touch.",
+    "steps": [
+      "Always disconnect power source before working on any wiring",
+      "Wire identification: in most countries \u2014 brown/black = live (hot), blue/white = neutral, green/yellow = earth (ground)",
+      "Basic circuit: power source \u2192 switch \u2192 load (light/device) \u2192 back to source \u2014 all connections must be solid and insulated",
+      "Wire connections: strip 1cm of insulation, twist conductors tightly together, cover completely with electrical tape or wire nut",
+      "Fuse calculation: fuse rating should be 80% of maximum current for the circuit \u2014 a 10 amp circuit needs a 10 amp fuse, NOT a 20 amp fuse",
+      "Improvised fuse: if you must, a short length of thin copper wire will melt before thicker wire \u2014 this is a last resort, not standard practice",
+      "Extension cord safety: never daisy-chain multiple extension cords, never cover with carpet or run under doors, never exceed the cord's rated amperage",
+      "Ground fault: if someone is being shocked by a device, the device has a fault \u2014 disconnect at source, do not touch device or person until power is off",
+      "12V DC systems (solar/battery): much safer than AC \u2014 bare wire contact causes sparks and burns but rarely death; same wiring principles apply",
+      "Solar charge controller wiring sequence: 1. Connect battery first, 2. Connect solar panel, 3. Connect load \u2014 always in this order, always reverse to disconnect"
+    ],
+    "avoid": [
+      "Do NOT work on live wires",
+      "Do NOT use a larger fuse than specified \u2014 this defeats the purpose of a fuse",
+      "Do NOT use tape as the only insulation in permanent installations",
+      "Do NOT mix AC and DC wiring in the same conduit"
+    ],
+    "when_to_seek_help": [
+      "Any electrical fire \u2014 disconnect power source, use CO2 or dry powder extinguisher, never water on electrical fire",
+      "Anyone shocked by AC current \u2014 internal burns are invisible"
+    ]
+  },
+  "long_term_survival": {
+    "keywords": [
+      "long term survival",
+      "extended survival",
+      "months survival",
+      "year survival",
+      "rebuild",
+      "sustainable",
+      "community survival",
+      "grid down long term",
+      "civilization collapse"
+    ],
+    "category": "survival",
+    "title": "Long-Term / Extended Survival Planning",
+    "summary": "Extended survival beyond 72 hours requires systems, not just supplies. Community organization is your greatest multiplier.",
+    "steps": [
+      "Community formation: immediately identify skills in your group \u2014 medical, mechanical, agricultural, security \u2014 assign roles based on ability",
+      "Security rotation: establish watch shifts (2 hours per person, 4 people minimum for 24-hour coverage without exhaustion)",
+      "Water system: establish a reliable, repeatable daily water collection and purification routine \u2014 assign dedicated responsibility",
+      "Food system: caloric accounting \u2014 know what you have, how long it lasts, and when to start supplementing with foraging and hunting",
+      "Agricultural basics: any seeds can be planted \u2014 focus on fast-growing, calorie-dense crops: root vegetables (potatoes, sweet potatoes), legumes (beans), leafy greens",
+      "Soil amendment: human and animal waste is excellent fertilizer after composting for minimum 3 months (pathogens killed by heat and time)",
+      "Seed saving: save seeds from non-hybrid produce \u2014 allow some plants to bolt and seed, collect and dry seeds for next planting",
+      "Medical inventory: establish a community medical kit, train at least 2 people in each group in first aid, keep a written record of any medical conditions and medications",
+      "Skill transfer: every person with a critical skill should teach at least one other person \u2014 redundancy is survival",
+      "Record keeping: write down everything \u2014 resource counts, plant growth, medical events, weather patterns \u2014 paper documentation outlasts memory",
+      "Energy planning: establish renewable energy sources (solar, wind, hydro) as permanent infrastructure, not emergency stopgap"
+    ],
+    "avoid": [
+      "Do NOT hoard resources without contributing to community \u2014 creates conflict that is more dangerous than resource scarcity",
+      "Do NOT neglect mental health and social cohesion \u2014 community breakdown kills more people than physical threats in long-term survival",
+      "Do NOT plant everything at once \u2014 stagger plantings for continuous harvest"
+    ],
+    "when_to_seek_help": [
+      "When organized government or aid services become accessible \u2014 integrate with larger support systems",
+      "Medical conditions exceeding your treatment capacity"
+    ]
+  },
+  "animal_threats": {
+    "keywords": [
+      "animal attack",
+      "bear",
+      "wolf",
+      "crocodile",
+      "shark",
+      "big cat",
+      "wild animal",
+      "predator",
+      "dangerous animal",
+      "animal bite"
+    ],
+    "category": "survival",
+    "title": "Large Predator and Animal Threat Response",
+    "summary": "Wild animal attacks are rare but follow predictable patterns. The correct response is specific to the species.",
+    "steps": [
+      "Bear (black bear): be aggressive \u2014 make yourself big, make noise, do NOT run, fight back if attacked \u2014 black bears respond to dominance",
+      "Bear (brown/grizzly): if attacked while surprised, play dead \u2014 face down, hands protecting neck, legs spread \u2014 maintain position until bear leaves; if predatory attack (stalking), fight back",
+      "Cougar/mountain lion: make yourself large, maintain eye contact, back away slowly \u2014 do NOT run (triggers chase instinct), fight back if attacked",
+      "Wolf pack: same as cougar \u2014 appear large, maintain eye contact, do NOT run, back away slowly; wolves respond to pack-predator instinct",
+      "Crocodile on land: run in a straight line \u2014 crocodiles are fast in short bursts but tire quickly; zigzagging is a myth that slows you down",
+      "Crocodile in water: if grabbed, gouge eyes and strike nose \u2014 these are pressure-sensitive areas; do NOT try to pry jaws open",
+      "Shark: if attacked, punch snout or gouge eyes \u2014 fight back; playing dead does not work with sharks",
+      "Hippo: if encountered on land, immediately climb a tree or get behind a solid obstacle \u2014 hippos are extremely territorial and fast; do NOT run in open ground",
+      "Elephant: bluff charge (ears out, noise) vs real charge (ears back, silent, trunk tucked) \u2014 bluff: stand firm and make noise; real charge: take solid cover immediately",
+      "General: avoid dawn/dusk near water in predator country, make noise while moving through dense vegetation, never approach any wild animal regardless of apparent tameness"
+    ],
+    "avoid": [
+      "Do NOT run from any large predator \u2014 triggers chase instinct",
+      "Do NOT make eye contact with primates \u2014 seen as threat display",
+      "Do NOT feed or approach any wild animal",
+      "Do NOT get between a mother and offspring"
+    ],
+    "when_to_seek_help": [
+      "Any significant animal bite or scratch \u2014 infection and rabies risk",
+      "Any crocodile or large predator attack \u2014 internal injuries common"
+    ]
+  },
+  "document_preservation": {
+    "keywords": [
+      "documents",
+      "passport",
+      "id",
+      "papers",
+      "important documents",
+      "protect documents",
+      "waterproof",
+      "preserve documents",
+      "identity documents"
+    ],
+    "category": "survival",
+    "title": "Protecting Critical Documents",
+    "summary": "In conflict zones and disasters, identity documents can mean the difference between crossing a border and being detained.",
+    "steps": [
+      "Priority documents: passport, national ID, birth certificate, marriage certificate, medical records, property documents, financial records",
+      "Waterproofing: place in sealed zip-lock bag, then inside a second bag \u2014 double seal; or laminate if equipment available",
+      "Digital copies: photograph every document with phone camera \u2014 upload to cloud storage accessible from any device; email copies to yourself and a trusted contact",
+      "Distribute copies: keep one physical copy on your person, one in your bag, leave one with a trusted person in a different location",
+      "Memory: memorize your passport number, date of birth, and government ID number \u2014 information survives even if documents don't",
+      "Medical information card: write on waterproof paper or laminate \u2014 blood type, medications, allergies, medical conditions, emergency contacts",
+      "Cash: keep small amounts of local and international currency (USD/EUR) in multiple locations on your body \u2014 not all in one wallet",
+      "Important contacts: write key phone numbers on your body or on waterproof paper \u2014 phone memory is useless if device is destroyed"
+    ],
+    "avoid": [
+      "Do NOT keep all documents and cash in one location",
+      "Do NOT store digital copies only on the device you carry \u2014 cloud backup essential"
+    ],
+    "when_to_seek_help": [
+      "Document loss at border or checkpoint \u2014 contact your country's embassy or consulate immediately"
+    ]
+  },
+  "spinal_injury": {
+    "keywords": [
+      "spine",
+      "spinal",
+      "back numb",
+      "numbness",
+      "cannot feel legs",
+      "cannot move",
+      "paralyzed",
+      "neck pain",
+      "back injury",
+      "spinal cord",
+      "tingling",
+      "loss of movement",
+      "loss of sensation",
+      "fell on back",
+      "back hurts"
+    ],
+    "category": "medical",
+    "severity": "critical",
+    "title": "Possible Spinal Injury",
+    "summary": "Numbness, paralysis, or severe back/neck pain after trauma may indicate spinal cord injury. Movement can worsen permanent damage.",
+    "steps": [
+      "DO NOT move unless there is immediate life-threatening danger.",
+      "Keep your head, neck, and back completely still.",
+      "If another person is helping, stabilize your head using both hands.",
+      "Check breathing carefully without twisting the neck.",
+      "Call emergency medical services immediately.",
+      "Keep warm using blankets or clothing to reduce shock risk.",
+      "Monitor consciousness and breathing continuously."
+    ],
+    "avoid": [
+      "Do not stand or walk.",
+      "Do not twist the neck or spine.",
+      "Do not attempt stretching or massage.",
+      "Do not lift the person unnecessarily."
+    ],
+    "when_to_seek_help": [
+      "Immediately after numbness or paralysis.",
+      "If tingling spreads to arms or legs.",
+      "If loss of bladder or bowel control occurs.",
+      "If breathing becomes difficult.",
+      "After any serious fall with neck or back pain."
+    ]
+  },
+  "plant_identification": {
+    "keywords": [
+      "identify plant",
+      "edible plant",
+      "poisonous plant",
+      "wild food",
+      "foraging",
+      "plant ID",
+      "can I eat this",
+      "is this plant safe",
+      "wild berries",
+      "mushrooms"
+    ],
+    "category": "survival",
+    "title": "Edible and Toxic Plant Identification",
+    "summary": "Eat the wrong plant and you die. Universal Edibility Test is your protocol when unsure. When completely unsure, do not eat.",
+    "steps": [
+      "Universal Edibility Test (takes 8+ hours \u2014 do only if desperate): 1. Separate plant into components (leaves, stem, root, fruit) and test one part at a time",
+      "2. Check for contact reaction: crush and rub on inner forearm, wait 15 minutes for rash/burning/numbness",
+      "3. Mouth test: touch to outer lip, wait 3 minutes; touch to tongue, wait 3 minutes; chew a small amount, wait 15 minutes without swallowing; swallow a small amount, wait 8 hours",
+      "4. If no reaction after 8 hours: larger amount is likely safe \u2014 cook before eating if possible",
+      "Generally SAFE indicators: milky or clear (not white/milky like latex), no bitter/soapy/burning taste, no almond scent (cyanide), leaves in alternate not opposite arrangement",
+      "Safe plant families you can often recognize: grasses (seeds are almost always safe cooked), conifers (pine needles for tea, inner bark), clovers, dandelions",
+      "DANGEROUS plant families: Apiaceae/carrot family (contains some deadly species \u2014 hemlock looks like wild carrot), Solanaceae (nightshade family \u2014 many toxic), all mushrooms require expert identification",
+      "Safe berries: tend to be blue, black, or red aggregated berries (raspberries, blackberries pattern). AVOID white or yellow berries \u2014 most are toxic",
+      "Definitive rule: if you don't know it, don't eat it \u2014 3 weeks without food won't kill you; the wrong mushroom will"
+    ],
+    "avoid": [
+      "Do NOT eat any mushroom without absolute expert identification \u2014 many deadly species look identical to edible ones",
+      "Do NOT eat plants with milky sap \u2014 latex-producing plants are usually toxic",
+      "Do NOT eat plants with umbel (umbrella-shaped) flowers unless positively identified as safe \u2014 this family contains water hemlock and poison hemlock",
+      "Do NOT assume birds eating a berry means it is safe for humans \u2014 birds tolerate many toxins humans cannot"
+    ],
+    "when_to_seek_help": [
+      "Any suspected plant poisoning \u2014 activated charcoal if available, emergency medical care",
+      "Mushroom poisoning: symptoms can be delayed 6\u201324 hours \u2014 liver failure is the danger"
+    ]
+  },
+  "pregnancy_complications": {
+    "keywords": [
+      "pregnancy",
+      "pregnant complications",
+      "miscarriage",
+      "bleeding pregnant",
+      "preeclampsia",
+      "eclampsia",
+      "pregnant emergency",
+      "pregnant woman",
+      "ectopic"
+    ],
+    "category": "health",
+    "title": "Pregnancy Complications",
+    "summary": "Pregnancy emergencies kill quickly. Know the warning signs and act immediately.",
+    "steps": [
+      "Heavy vaginal bleeding during pregnancy: lay the woman down, elevate legs, give IV fluids if available, get to medical care immediately \u2014 placenta praevia or abruption",
+      "Eclampsia (seizure in pregnant woman): position on left side (reduces pressure on major vein), protect from injury, do NOT restrain, get to hospital",
+      "Preeclampsia warning signs: severe headache, visual disturbances, swelling of hands/face, upper right abdominal pain, high blood pressure \u2014 precedes eclampsia",
+      "First trimester severe pain + bleeding: could be ectopic pregnancy (embryo in fallopian tube) \u2014 can rupture and cause fatal internal bleeding; urgent surgical emergency",
+      "Preterm labor (before 37 weeks): contractions before 37 weeks \u2014 if birth is imminent, prepare to receive baby; if not, try to get to medical facility",
+      "Cord prolapse (cord comes before baby): if cord is visible, do NOT push it back \u2014 have mother assume knee-chest position (on knees, chest to floor) to reduce cord compression, get to emergency care immediately",
+      "Placenta delivered with excessive bleeding after birth: massage uterine fundus (feel for firm round mass below navel and firmly massage), breastfeeding stimulates natural oxytocin which contracts uterus",
+      "Monitor: normal blood loss after delivery is up to 500ml; more than 500ml is postpartum hemorrhage"
+    ],
+    "avoid": [
+      "Do NOT let a woman with suspected eclampsia remain alone",
+      "Do NOT ignore first trimester pain \u2014 ectopic pregnancy rupture is rapidly fatal",
+      "Do NOT restrict a pregnant woman's fluid intake during labor"
+    ],
+    "when_to_seek_help": [
+      "Any seizure in a pregnant woman",
+      "Heavy bleeding during any stage of pregnancy",
+      "Cord prolapse \u2014 extreme urgency",
+      "Signs of preeclampsia \u2014 high urgency"
+    ]
+  }
+}
